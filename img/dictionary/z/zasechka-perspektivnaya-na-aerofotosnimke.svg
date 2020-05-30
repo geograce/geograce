@@ -1,0 +1,57 @@
+<svg id="f2465720-4e95-4330-b154-b773c64571df" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261 261">
+  <defs>
+    <style>
+      .a1511b9d-6c53-4243-b126-96cf920b808e, .fd1464ee-3312-4cba-828a-8f63d67c9e9d {
+        fill: none;
+      }
+
+      .a1511b9d-6c53-4243-b126-96cf920b808e, .f09941c6-d844-4703-8b6f-57096a235ecb, .fd1464ee-3312-4cba-828a-8f63d67c9e9d {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .a1511b9d-6c53-4243-b126-96cf920b808e {
+        stroke-dasharray: 9.211 9.211;
+      }
+
+      .f09941c6-d844-4703-8b6f-57096a235ecb {
+        fill: #fff;
+      }
+
+      .fdcf9cbc-d1ef-4f78-a396-f65aa93bf982 {
+        font-size: 28px;
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+        font-style: italic;
+      }
+
+      .f2c5f2e7-7261-4c66-a662-b059116c3f76 {
+        letter-spacing: -0.111em;
+      }
+    </style>
+  </defs>
+  <title>zasechka-perspektivnaya-na-aerofotosnimke</title>
+  <rect class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x="0.5" y="0.5" width="260" height="260"/>
+  <line class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x1="55" y1="217" x2="85" y2="18"/>
+  <line class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x1="224" y1="35" x2="55" y2="217"/>
+  <g>
+    <line class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x1="231" y1="117" x2="227.087" y2="119.223"/>
+    <line class="a1511b9d-6c53-4243-b126-96cf920b808e" x1="219.079" y1="123.773" x2="62.917" y2="212.502"/>
+    <line class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x1="58.913" y1="214.777" x2="55" y2="217"/>
+  </g>
+  <line class="fd1464ee-3312-4cba-828a-8f63d67c9e9d" x1="243" y1="175" x2="55" y2="217"/>
+  <circle class="f09941c6-d844-4703-8b6f-57096a235ecb" cx="55" cy="217" r="6"/>
+  <circle class="f09941c6-d844-4703-8b6f-57096a235ecb" cx="78" cy="62" r="6"/>
+  <circle class="f09941c6-d844-4703-8b6f-57096a235ecb" cx="190" cy="140" r="6"/>
+  <circle class="f09941c6-d844-4703-8b6f-57096a235ecb" cx="187" cy="75" r="6"/>
+  <circle class="f09941c6-d844-4703-8b6f-57096a235ecb" cx="218" cy="181" r="6"/>
+  <rect class="f09941c6-d844-4703-8b6f-57096a235ecb" x="17.071" y="149.938" width="239.344" height="20.357" transform="translate(131.901 -53.94) rotate(40.133)"/>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(41.802 239.462)">a</text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(87.802 58.462)">b</text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(83.802 96.462)">b<tspan class="f2c5f2e7-7261-4c66-a662-b059116c3f76" x="14" y="0">’</tspan></text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(117.802 122.462)">d<tspan class="f2c5f2e7-7261-4c66-a662-b059116c3f76" x="14" y="0">’</tspan></text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(195.802 84.462)">d</text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(198.802 149.462)">e</text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(215.802 208.462)">c</text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(176.802 178.462)">c<tspan class="f2c5f2e7-7261-4c66-a662-b059116c3f76" x="12.428" y="0">’</tspan></text>
+  <text class="fdcf9cbc-d1ef-4f78-a396-f65aa93bf982" transform="translate(147.802 149.462)">e<tspan class="f2c5f2e7-7261-4c66-a662-b059116c3f76" x="12.428" y="0">’</tspan></text>
+</svg>

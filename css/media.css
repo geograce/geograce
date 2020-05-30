@@ -1,0 +1,102 @@
+@media screen and (max-width: 1440px) {
+  .index_header .left_header {
+    width: 39%;
+  }
+  .index_header .left_header .h1_index {
+    font-size: 50px;
+  }
+  .index_header .right_header {
+    width: 61%;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .index_header .left_header {
+    width: 40%;
+  }
+  .index_header .left_header .txt1_index {
+    font-size: 24px;
+  }
+  .index_header .left_header .h1_index {
+    font-size: 40px;
+  }
+  .index_header .left_header .txt2_index {
+    font-size: 34px;
+  }
+  .index_header .right_header {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .index_header {
+    flex-direction: column;
+    height: auto;
+  }
+  .index_header .left_header {
+    width: 100%;
+    padding-bottom: 40px;
+    background-position: 0px 50px;
+  }
+  .index_header .left_header .box_left_menu_index .burger_menu {
+    display: flex;
+  }
+  .index_header .left_header .txt1_index {
+    font-size: 26px;
+    margin-top: 100px;
+  }
+  .index_header .left_header .h1_index {
+    font-size: 44px;
+  }
+  .index_header .left_header .txt2_index {
+    font-size: 38px;
+  }
+  .index_header .right_header {
+    width: 100%;
+  }
+  .index_header .right_header .box_right_menu_index {
+    display: none;
+  }
+  .index_header .right_header .box_alphabet {
+    margin-top: 0;
+    padding: 150px 0;
+  }
+  .index_header .right_header .box_alphabet p {
+    background: rgba(197, 197, 197, 0.5);
+  }
+}
+@media screen and (max-width: 768px) {
+  .index_header {
+    flex-direction: column;
+    height: auto;
+  }
+  .index_header .left_header .h1_index {
+    font-size: 42px;
+  }
+  .index_header .right_header .box_alphabet {
+    grid-template-columns: repeat(6, 50px);
+    grid-gap: 19px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .index_header {
+    padding: 20px;
+  }
+  .index_header .left_header .txt1_index {
+    font-size: 18px;
+    margin-top: 80px;
+    margin-left: 10px;
+  }
+  .index_header .left_header .txt1_index .h1_index {
+    font-size: 30px;
+    margin-left: 10px;
+  }
+  .index_header .left_header .txt1_index .txt2_index {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  .index_header .right_header .box_alphabet {
+    grid-template-columns: repeat(4, 50px);
+    justify-content: center;
+    grid-gap: 20px;
+    padding: 100px 0;
+  }
+}

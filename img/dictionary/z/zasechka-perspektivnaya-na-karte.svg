@@ -1,0 +1,51 @@
+<svg id="ef994b74-141d-4e3c-93b9-f9046c79b424" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.767 288.042">
+  <defs>
+    <style>
+      .b8f5c731-cdab-45d3-806c-86eeef699dde, .f0ff0456-71b1-4498-a287-4421e00cdfa5 {
+        fill: none;
+      }
+
+      .b8f5c731-cdab-45d3-806c-86eeef699dde, .eb6db609-6ab4-46bc-81ca-893b0f70e413, .f0ff0456-71b1-4498-a287-4421e00cdfa5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .b2f455fd-2ea2-4643-94a7-8844b2f0fbe5, .fee4968e-39b6-4eed-b97c-5781bcde8336 {
+        font-size: 28px;
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+        font-style: italic;
+      }
+
+      .fee4968e-39b6-4eed-b97c-5781bcde8336 {
+        letter-spacing: -0.018em;
+      }
+
+      .b8f5c731-cdab-45d3-806c-86eeef699dde {
+        stroke-dasharray: 8.669 8.669;
+      }
+
+      .eb6db609-6ab4-46bc-81ca-893b0f70e413 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>zasechka-perspektivnaya-na-karte</title>
+  <path class="f0ff0456-71b1-4498-a287-4421e00cdfa5" d="M288.5,3.5H3.5v279s32-11,45-5,6,7,25,10,45-5,45-5,17-6,32-3,34,16,60,9,34-18,68-20c0,0,3.571-10.714,8.528-17.566a53.515,53.515,0,0,0,9.5-24.516c1.912-14.7,3.434-34.124-.023-43.918-6-17-11-75-11-75s-5-24,12-43S288.5,3.5,288.5,3.5Z" transform="translate(-3 -3)"/>
+  <text class="fee4968e-39b6-4eed-b97c-5781bcde8336" transform="translate(39.302 221.962)">A</text>
+  <text class="b2f455fd-2ea2-4643-94a7-8844b2f0fbe5" transform="translate(88.302 82.962)">B</text>
+  <text class="b2f455fd-2ea2-4643-94a7-8844b2f0fbe5" transform="translate(224.302 78.962)">D</text>
+  <text class="b2f455fd-2ea2-4643-94a7-8844b2f0fbe5" transform="translate(223.302 251.962)">C</text>
+  <line class="f0ff0456-71b1-4498-a287-4421e00cdfa5" x1="66" y1="214" x2="251" y2="34"/>
+  <line class="f0ff0456-71b1-4498-a287-4421e00cdfa5" x1="84.5" y1="25.5" x2="66.5" y2="213.5"/>
+  <g>
+    <line class="f0ff0456-71b1-4498-a287-4421e00cdfa5" x1="264.5" y1="148.5" x2="260.224" y2="149.904"/>
+    <line class="b8f5c731-cdab-45d3-806c-86eeef699dde" x1="251.988" y1="152.608" x2="74.894" y2="210.744"/>
+    <line class="f0ff0456-71b1-4498-a287-4421e00cdfa5" x1="70.776" y1="212.096" x2="66.5" y2="213.5"/>
+  </g>
+  <line class="f0ff0456-71b1-4498-a287-4421e00cdfa5" x1="262.5" y1="231.5" x2="66.5" y2="214.5"/>
+  <rect class="eb6db609-6ab4-46bc-81ca-893b0f70e413" x="4.071" y="170.938" width="239.344" height="20.357" transform="translate(179.751 -33.15) rotate(49.947)"/>
+  <circle class="eb6db609-6ab4-46bc-81ca-893b0f70e413" cx="66.5" cy="214.5" r="6"/>
+  <circle class="eb6db609-6ab4-46bc-81ca-893b0f70e413" cx="79.5" cy="72.5" r="6"/>
+  <circle class="eb6db609-6ab4-46bc-81ca-893b0f70e413" cx="217.5" cy="66.5" r="6"/>
+  <circle class="eb6db609-6ab4-46bc-81ca-893b0f70e413" cx="222.5" cy="227.5" r="6"/>
+</svg>
