@@ -15,6 +15,26 @@
 </head>
 
 <body>
+   <!-- Yandex.Metrika counter -->
+   <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+         m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+         m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+      })
+         (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+      ym(64847890, "init", {
+         clickmap: true,
+         trackLinks: true,
+         accurateTrackBounce: true,
+         webvisor: true
+      });
+   </script>
+   <noscript>
+      <div><img src="https://mc.yandex.ru/watch/64847890" style="position:absolute; left:-9999px;" alt="" /></div>
+   </noscript>
+   <!-- /Yandex.Metrika counter -->
+
    <?php
       require "../../module_php/menu_general.php";
    ?>
@@ -22,7 +42,8 @@
    <div class="description_general">
       <h1 class="h1_description_general">Башмак нивелирный</h1>
       <p class="txt_description_general"><strong>Башмак нивелирный</strong> &ndash; металлическая подставка в виде
-         диска для установки на нее нивелирной рейки. Вместо башмаков применяют еще забиваемые в землю костыли. Установка башмака (с вдавливанием шипов в грунт) производится путем надавливания на него ногой рабочего.</p>
+         диска для установки на нее нивелирной рейки. Вместо башмаков применяют еще забиваемые в землю костыли.
+         Установка башмака (с вдавливанием шипов в грунт) производится путем надавливания на него ногой рабочего.</p>
       <br>
       <br>
       <br>

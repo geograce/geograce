@@ -1,0 +1,37 @@
+RewriteEngine On
+
+#Редирект с http на https
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+#Редирект c geograce.ru на www.geograce.ru
+RewriteCond %{HTTP_HOST} ^geograce\.ru$ [NC]
+RewriteRule ^(.*)$ https://www.geograce.ru/$1 [R=301,L]
+
+#Редирект с index.html на корень
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ http://www.geograce.ru/ [R=301,L]
+
+#404 редирект
+ErrorDocument 404 https://www.geograce.ru/
+
+<ifModule mod_expires.c>
+
+ExpiresActive On
+#кэшировать флэш и изображения
+ExpiresByType image/x-icon "access plus 5 days"
+ExpiresByType image/jpeg "access plus 5 days"
+ExpiresByType image/png "access plus 5 days"
+ExpiresByType image/gif "access plus 5 days"
+ExpiresByType image/webp "access plus 5 days"
+ExpiresByType application/x-shockwave-flash "access plus 5 days"
+#кэшировать css, javascript и текстовые файлы
+ExpiresByType text/css "access plus 2 days"
+ExpiresByType text/javascript "access plus 2 days"
+ExpiresByType application/javascript "access plus 2 days"
+ExpiresByType application/x-javascript "access plus 2 days"
+#кэшировать html и htm файлы
+ExpiresByType text/html "access plus 2 days"
+#кэшировать xml файлы
+ExpiresByType application/xhtml+xml "access plus 5 days"
+</ifModule>
