@@ -1,0 +1,84 @@
+.box_menu_general{
+   max-width: 1200px;
+   height: 70px;
+   margin: 0 auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 20px;
+   font-family: "Ubuntu", sans-serif;
+   border-bottom: 1px solid gray;
+   .box_logo_general{
+      display: flex;
+      align-items: center;
+      color: black;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-size: 26px;
+      font-weight: bold;
+      .img_logo_general{
+         height: 50px;
+         margin-right: 15px;
+      }
+      .span_geo_general{
+         color: rgb(129, 84, 0);
+      }
+   }
+   .nav_general{
+      width: 350px;
+      display: flex;
+      justify-content: space-between;
+      a{
+         color: black;
+         text-decoration: none;
+         &:hover{
+            text-decoration: underline;
+         }
+      }
+   }
+   .burger_menu_general{
+      width: 35px;
+      height: 20px;
+      display: none;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+      .strip_burger_menu_general{
+         width: 100%;
+         height: 2px;
+         background: black;
+      }
+   }
+   //Мобильное меню=======================================
+   .mobile_menu_general{
+      position: fixed;
+      display: none;
+      flex-direction: column;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      background: rgba(0, 0, 0, 0.95);
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 2;
+      a{
+         color: white;
+         text-decoration: none;
+         font-size: 20px;
+         margin-bottom: 7px;
+         font-weight: 300;
+         &:hover{
+            color: rgb(240, 108, 0);
+         }
+      }
+      .close_mobile_menu_general{
+         position: absolute;
+         top: 50px;
+         right: 50px;
+         font-size: 30px;
+         padding: 5px;
+      }
+   }
+}

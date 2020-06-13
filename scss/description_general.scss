@@ -1,0 +1,53 @@
+.description_general{
+   max-width: 1200px;
+   padding: 0 20px;
+   margin: 0 auto;
+   padding-top: 70px;
+   min-height: calc(100vh - 220px);
+   .list_description_general{
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: normal;
+      font-size: 20px;
+      list-style-position: inside;
+      text-align: justify;
+      padding: 0 20px 20px 20px;
+   }
+   .link_description_general{
+      color: blue;
+      text-decoration: none;
+      &:hover{
+         text-decoration: underline;
+      }
+   }
+   .h1_description_general{
+      margin-bottom: 30px;
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'IBM Plex Sans', sans-serif;
+      color: rgb(56, 56, 56);
+   }
+   .txt_description_general{
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 1.5;
+      text-align: justify;
+   }
+   .formula_description{
+      font-size: 26px;
+   }
+   .figure_img_description_general{
+      margin: 0 auto;
+      padding: 0 20px;
+      .img_description_general{
+         width: 100%;
+         display: block;
+      }
+      .figcaption_general{
+         font-style: italic;
+         color: rgb(54, 54, 54);
+         text-align: center;
+         margin: 10px 0;
+         font-size: 18px;
+      }
+   }
+}

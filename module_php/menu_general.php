@@ -4,9 +4,9 @@
    <nav class="mobile_menu_general">
       <a href="#" class="close_mobile_menu_general">x</a>
       <a href="/index.html">Главная</a>
-      <a href="/alphabet.html">Алфавит</a>
+      <a href="/index.html">Алфавит</a>
       <a href="/blog/blog.html">Блог</a>
-      <a href="/about_us.html">О Нас</a>
+      <!-- <a href="/about_us.html">О Нас</a> -->
    </nav>
    <!--Логотип=====================================-->
    <a class="box_logo_general" href="/index.html">
@@ -16,9 +16,9 @@
    <!--Десктопное меню=============================-->
    <nav class="nav_general">
       <a href="/index.html">Главная</a>
-      <a href="/alphabet.html">Алфавит</a>
+      <a href="/index.html">Алфавит</a>
       <a href="/blog/blog.html">Блог</a>
-      <a href="/about_us.html">О Нас</a>
+      <!-- <a href="/about_us.html">О Нас</a> -->
    </nav>
    <!--Бургер меню=================================-->
    <div class="burger_menu_general" id="bg_menu_general">

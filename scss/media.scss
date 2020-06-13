@@ -79,6 +79,31 @@
          }
       }
    }
+   //======================================================
+   //===============  СТРАНИЦА BLOG  ======================
+   //======================================================
+   .home_blog{
+      .h1_home_blog{
+         font-size: 34px;
+      }
+      .box_new_blog{
+         height: 250px;
+         .box_img_new_blog{
+            width: 330px;
+         }
+         .txt_new_blog{
+            width: calc(100% - 330px);
+            padding-right: 30px;
+            a{
+               font-size: 20px;
+               margin-bottom: 10px;
+            }
+            .txt_home_new_blog{
+               font-size: 16px;
+            }
+         }
+      }
+   }
 }
 
 @media screen and (max-width:768px){
@@ -98,6 +123,67 @@
             grid-template-columns: repeat(6, 50px);
             grid-gap: 19px;
          }
+      }
+   }
+   //======================================================
+   //=================  ГЛАВНОЕ МЕНЮ  =====================
+   //======================================================
+   .box_menu_general{
+      .nav_general{
+         display: none;
+      }
+      .burger_menu_general{
+         display: flex;
+      }
+   }
+   //======================================================
+   //======================  FOOTER  ======================
+   //======================================================
+   .footer_general{
+      .box_name_footer{
+         .box_logo_footer{
+            font-size: 22px;
+            .img_logo_footer{
+               height: 30px;
+            }
+         }
+         .txt_footer{
+            font-size: 18px;
+         }
+      }
+   }
+   //======================================================
+   //===============  СТРАНИЦА BLOG  ======================
+   //======================================================
+   .home_blog{
+      .h1_home_blog{
+         font-size: 30px;
+      }
+      .box_new_blog{
+         flex-direction: column;
+         width: 100%;
+         height: auto;
+         .box_img_new_blog{
+            width: 100%;
+            height: 250px;
+         }
+         .txt_new_blog{
+            width: 100%;
+            height: 250px;
+            padding: 0 20px;
+         }
+      }
+   }
+   //======================================================
+   //===============  СТРАНИЦА СТАТЬИ  ====================
+   //======================================================
+   .main_box_article{
+      .h1_article{
+         margin-bottom: 30px;
+      }
+      .txt_article{
+         font-size: 20px;
+         line-height: 1.4;
       }
    }
 }
@@ -130,6 +216,97 @@
             grid-gap: 20px;
             padding: 100px 0;
          }
+      }
+   }
+   //======================================================
+   //======================  FOOTER  ======================
+   //======================================================
+   .footer_general{
+      padding-top: 40px;
+      padding-bottom: 20px;
+      .box_name_footer{
+         .box_logo_footer{
+            font-size: 20px;
+         }
+         .txt_footer{
+            font-size: 14px;
+         }
+      }
+      .box_social_contact_footer{
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+         .contact_footer{
+            margin-bottom: 15px;
+         }
+      }
+   }
+   //======================================================
+   //=====================  АЛФАВИТ  ======================
+   //======================================================
+   .box_dictionary_general{
+      a{
+         font-size: 16px;
+      }
+   }
+   //======================================================
+   //====================  ОПРЕДЕЛЕНИЯ  ===================
+   //======================================================
+   .description_general{
+      .h1_description_general{
+         font-size: 28px;
+      }
+      .txt_description_general{
+         font-size: 16px;
+         line-height: 1.4;
+      }
+      .list_description_general{
+         font-size: 16px;
+         line-height: 1.4;
+      }
+      .formula_description{
+         font-size: 22px;
+      }
+      .figure_img_description_general{
+         .figcaption_general{
+            font-size: 16px;
+         }
+      }
+   }
+   //======================================================
+   //===============  СТРАНИЦА BLOG  ======================
+   //======================================================
+   .home_blog{
+      .h1_home_blog{
+         font-size: 26px;
+      }
+      .box_new_blog{
+         .txt_new_blog{
+            a{
+               font-size: 18px;
+            }
+            .date_new_blog{
+               font-size: 14px;
+            }
+            .txt_home_new_blog{
+               font-size: 14px;
+               text-align: justify;
+            }
+         }
+      }
+   }
+   //======================================================
+   //===============  СТРАНИЦА СТАТЬИ  ====================
+   //======================================================
+   .main_box_article{
+      .h1_article{
+         margin-bottom: 20px;
+         font-size: 26px;
+      }
+      .txt_article{
+         font-size: 18px;
+         line-height: 1.3;
       }
    }
 }
