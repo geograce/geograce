@@ -8,10 +8,9 @@
       content="Аэрофотоснимок - фотографическое изображение местности, полученное с самолета или другого летательного аппарата.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
    <title>Аэрофотоснимок</title>
 </head>
@@ -36,7 +35,7 @@
       <div><img src="https://mc.yandex.ru/watch/64847890" style="position:absolute; left:-9999px;" alt="" /></div>
    </noscript>
    <!-- /Yandex.Metrika counter -->
-   
+
    <?php
       require "../../module_php/menu_general.php";
    ?>
@@ -48,7 +47,20 @@
          центральную (или иную) проекцию, центром проектирования которой служит задняя узловая точка объектива
          аэрофотоаппарата (АФА). В зависимости от вида аэрофотосъемки, типа АФА, которым производилась аэрофотосъемка, и
          последующей обработки рассматриваются аэрофотоснимки следующих наименований.</p>
-
+      <br>
+      <!--Слайдер==========================-->
+      <div class="slider">
+         <div class="slider_item">
+            <img src="/img/dictionary/a/aehrofotosnimok-1.webp" alt="Аэрофотоснимок">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/a/aehrofotosnimok-2.webp" alt="Аэрофотоснимок черно-белый">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/a/aehrofotosnimok-3.webp" alt="Аэрофотоснимок">
+         </div>
+      </div>
+      <br>
       <p class="list_description_general"><strong>1. аэрофотоснимок горизонтальный</strong> &ndash; снимок полученный
          при строго отвесном положении оптической оси аэрофотоаппарата. В случае плоской и без наклона местности масштаб
          горизонтального аэрофотоснимка по всей его площади постоянный (см. <a class="link_description_general"
@@ -138,6 +150,10 @@
    ?>
 
    <script src="/js/mobile_menu_general.js"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+   <script type="text/javascript" src="/js/slajder.js"></script>
 </body>
 
 </html>

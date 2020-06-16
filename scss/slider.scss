@@ -1,0 +1,67 @@
+.description_general{
+   .slider{
+      position: relative;
+      max-width: 550px;
+      margin: 0 auto;
+   }
+   .slider_item{
+      // text-align: center;
+   }
+   //Ограничивающая оболочка
+   .slick-list{
+      overflow: hidden;
+   }
+   //Лента слайдов
+   .slick-track{
+      display: flex;
+   }
+   //Кнопки
+   .slick-arrow{
+      position: absolute;
+      top: 45%;
+      z-index: 2;
+      font-size: 0;
+      outline: none;
+   }
+   //Левая кнопка
+   .slick-prev{
+      left: 5px;
+      background: url(/img/slider/arrow-prev.svg) center no-repeat;
+      width: 30px;
+      height: 40px;
+      background-size: 100%;
+      border: none;
+   }
+   //Правая кнопка
+   .slick-next{
+      right: 5px;
+      background: url(/img/slider/arrow-next.svg) center no-repeat;
+      width: 35px;
+      height: 40px;
+      background-size: 100%;
+      border: none;
+   }
+   .slick-dots{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      li{
+         list-style: none;
+         margin: 0 5px;
+      }
+      .slick-active{
+         button{
+            background-color: rgb(245, 245, 245);
+            border: 1px solid black;
+         }
+      }
+      button{
+         font-size: 0;
+         width: 10px;
+         height: 10px;
+         background: rgb(209, 209, 209);
+         border-radius: 50%;
+         border: none;
+      }
+   }
+}

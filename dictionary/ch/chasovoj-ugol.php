@@ -8,7 +8,7 @@
       content="Часовой угол сферический угол при северном полюсе мира, образованный небесным меридианом и кругом склонения какой-либо точки небесной сферы, отсчитываемый от юга на запад, т. е. по направлению видимого суточного движения небесных светил.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Часовой угол</title>

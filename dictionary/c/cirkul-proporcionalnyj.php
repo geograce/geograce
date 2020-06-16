@@ -8,7 +8,7 @@
       content="Циркуль пропорциональный чертежный инструмент для измерения отрезков на карте или аэрофотоснимке с одновременным их увеличением или уменьшением в необходимое число раз; применяется для переноса объектов с аэрофотоснимка на карту и изготовления копий или схем в увеличенном или уменьшенном масштабе сравнительно с оригиналом">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Циркуль пропорциональный</title>

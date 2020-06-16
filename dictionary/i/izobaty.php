@@ -8,7 +8,7 @@
       content="Изобаты линии равных глубин. Применяются на морских навигационных картах для придания наглядности характеристике подводного рельефа, а также для дополнительного выделения навигационно опасных и характерных повышений и понижений морского дна — банок, мелей, рифов, баров, впадин, подводных долин и т. д.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Изобаты</title>

@@ -540,3 +540,59 @@
   font-size: 18px;
   color: #363636;
 }
+
+.description_general .slider {
+  position: relative;
+  max-width: 550px;
+  margin: 0 auto;
+}
+.description_general .slick-list {
+  overflow: hidden;
+}
+.description_general .slick-track {
+  display: flex;
+}
+.description_general .slick-arrow {
+  position: absolute;
+  top: 45%;
+  z-index: 2;
+  font-size: 0;
+  outline: none;
+}
+.description_general .slick-prev {
+  left: 5px;
+  background: url(/img/slider/arrow-prev.svg) center no-repeat;
+  width: 30px;
+  height: 40px;
+  background-size: 100%;
+  border: none;
+}
+.description_general .slick-next {
+  right: 5px;
+  background: url(/img/slider/arrow-next.svg) center no-repeat;
+  width: 35px;
+  height: 40px;
+  background-size: 100%;
+  border: none;
+}
+.description_general .slick-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.description_general .slick-dots li {
+  list-style: none;
+  margin: 0 5px;
+}
+.description_general .slick-dots .slick-active button {
+  background-color: whitesmoke;
+  border: 1px solid black;
+}
+.description_general .slick-dots button {
+  font-size: 0;
+  width: 10px;
+  height: 10px;
+  background: #d1d1d1;
+  border-radius: 50%;
+  border: none;
+}

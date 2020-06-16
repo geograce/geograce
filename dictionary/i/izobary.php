@@ -8,7 +8,7 @@
       content="Изобары линии на карте, соединяющие точки земной поверхности с одинаковым атмосферным давлением. Изобаты строятся для средних значений атмосферного давления в некоторые периоды времени (например, месяцы), полученных из многолетних наблюдений, или для атмосферного давления в определенные моменты времени.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Изобары</title>

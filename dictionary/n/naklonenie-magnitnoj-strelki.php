@@ -8,7 +8,7 @@
       content="Наклонение магнитной стрелки вертикальный угол, образуемый осью магнитной стрелки с горизонтальной плоскостью. Наклонение магнитной стрелки обусловлено расположением магнитных полюсов в глубине Земли.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Наклонение магнитной стрелки</title>

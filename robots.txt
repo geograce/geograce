@@ -1,27 +1,4 @@
 User-agent: *
-Disallow: /dictionary/dictionary_a.php
-Disallow: /dictionary/dictionary_b.php
-Disallow: /dictionary/dictionary_c.php
-Disallow: /dictionary/dictionary_ch.php
-Disallow: /dictionary/dictionary_d.php
-Disallow: /dictionary/dictionary_eh.php
-Disallow: /dictionary/dictionary_f.php
-Disallow: /dictionary/dictionary_g.php
-Disallow: /dictionary/dictionary_h.php
-Disallow: /dictionary/dictionary_i.php
-Disallow: /dictionary/dictionary_k.php
-Disallow: /dictionary/dictionary_l.php
-Disallow: /dictionary/dictionary_m.php
-Disallow: /dictionary/dictionary_n.php
-Disallow: /dictionary/dictionary_o.php
-Disallow: /dictionary/dictionary_p.php
-Disallow: /dictionary/dictionary_r.php
-Disallow: /dictionary/dictionary_s.php
-Disallow: /dictionary/dictionary_t.php
-Disallow: /dictionary/dictionary_u.php
-Disallow: /dictionary/dictionary_v.php
-Disallow: /dictionary/dictionary_ya.php
-Disallow: /dictionary/dictionary_z.php
 
 Disallow: /about-us.html
 

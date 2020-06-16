@@ -8,7 +8,7 @@
       content="Личная разность систематическая погрешность наблюдателя в оценке моментов прохождения светила через нити прибора при астрономических наблюдениях. Личная разность возникает в силу того, что наблюдатель может упреждать или запаздывать в определении момента прохождения звезды через визирную нить зрительной трубы.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Личная разность</title>

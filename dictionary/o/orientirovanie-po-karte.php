@@ -8,7 +8,7 @@
       content="Ориентирование по карте значит опознать окружающие местные предметы и рельеф, отображенные на карте, и определить на ней свое местоположение. Для ориентирования нужно установить карту по компасу так, чтобы стрелка компаса была перпендикулярна к подписям и своим северным концом обращена к верху карты.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
-   <link rel="icon" href="/img/general/logo_geograce.svg">
+   <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <title>Ориентирование по карте</title>
