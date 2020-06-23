@@ -41,7 +41,8 @@
    <div class="box_dictionary_general">
       <p class="title_dictionary">Я</p>
       <a href="/dictionary/ya/yard.php">Ярд</a>
-      <br>
+      <a href="/dictionary/ya/yarkost-obektov-mestnosti.php">Яркость объектов местности</a>
+      <a href="/dictionary/ya/yashma.php">Яшма</a>
       <br>
       <br>
       <br>

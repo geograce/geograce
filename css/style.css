@@ -596,3 +596,56 @@
   border-radius: 50%;
   border: none;
 }
+
+.about_us {
+  max-width: 1200px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+.about_us .box_timeline_about_us {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 80px 40px 300px;
+  grid-template-rows: 20px 110px 20px 110px 20px 110px;
+  margin-top: 80px;
+}
+.about_us .box_timeline_about_us .date_timeline_about_us {
+  align-self: center;
+}
+.about_us .box_timeline_about_us .circle_timeline_about_us {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.about_us .box_timeline_about_us .line_timeline_about_us {
+  width: 1px;
+  border: 1px solid black;
+  height: 110px;
+  margin-left: 89px;
+}
+.about_us .box_timeline_about_us .title_date_timeline_about_us {
+  font-weight: bold;
+  font-size: 18px;
+  align-self: center;
+}
+.about_us .box_timeline_about_us .txt_date_timeline_about_us {
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #414141;
+}
+.about_us .box_timeline_about_us .item_about_us_4 {
+  grid-column: 1/3;
+}
+.about_us .box_timeline_about_us .item_about_us_9 {
+  grid-column: 1/3;
+}
+.about_us .box_timeline_about_us .item_about_us_12 {
+  border-style: dashed;
+}
+.about_us .box_timeline_about_us .item_about_us_14 {
+  grid-column: 1/3;
+}

@@ -42,7 +42,7 @@
       <p class="title_dictionary">Л</p>
       <a href="/dictionary/l/lazernaya-lokaciya-luny.php">Лазерная локация Луны</a>
       <a href="/dictionary/l/limb.php">Лимб</a>
-      <a href="/dictionary/l/logarifmicheskaya-linejka.html">Логарифмическая линейка</a>
+      <a href="/dictionary/l/logarifmicheskaya-linejka.php">Логарифмическая линейка</a>
       <a href="/dictionary/l/lichnaya-raznost.php">Личная разность</a>
       <br>
       <br>

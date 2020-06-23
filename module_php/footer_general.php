@@ -2,7 +2,7 @@
 <footer class="footer_general">
    <!--Заголовок footer============================-->
    <div class="box_name_footer">
-      <a class="box_logo_footer" href="/index.php">
+      <a class="box_logo_footer" href="/index.html">
          <img class="img_logo_footer" src="/img/general/logo_geograce.svg" alt="Geograce">
          <p><span class="span_geo_footer">Geo</span>grace</p>
       </a>

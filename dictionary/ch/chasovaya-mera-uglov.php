@@ -4,13 +4,14 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Что такое geograce все о нас и что мы делаем">
+   <meta name="description"
+      content="Часовая мера углов  широко применяемая в астрономии угловая мера, в которой единицей служит угловой час, равный 1/6 доле прямого угла, т. е. 1/24 доле окружности и обозначается буквой h.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>О Нас</title>
+   <title>Часовая мера углов</title>
 </head>
 
 <body>
@@ -37,10 +38,12 @@
    <?php
       require "../../module_php/menu_general.php";
    ?>
-
-   <div class="about_us">
-      <h1 class="h1_about_us">О Нас</h1>
-      <p class="txt_about_us"></p>
+   <div class="description_general">
+      <h1 class="h1_description_general">Часовая мера углов</h1>
+      <p class="txt_description_general"><strong>Часовая мера углов</strong> &ndash; широко применяемая в астрономии
+         угловая мера, в которой единицей служит угловой час, равный 1/6 доле прямого угла, т. е. 1/24 доле окружности и
+         обозначается буквой h. Угловой час делится на 60 угловых минут (m) или 3600 угловых секунд (s); 1<sup>h</sup> =
+         15&deg;; 1<sup>m</sup> = 15&prime; и 1<sup>s</sup> = 15&Prime;.</p>
    </div>
 
    <?php

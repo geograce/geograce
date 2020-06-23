@@ -54,8 +54,8 @@
          К переместится в направлении КА на расстояние КК<sub>1</sub> = &upsilon; t.
       </p>
 
-      <figure>
-         <img class="img_description_general" style="max-width: 200px;"
+      <figure class="figure_img_description_general" style="max-width: 200px;">
+         <img class="img_description_general"
             src="/img/dictionary/a/aberratsiya-astronomicheskaya-ris1.svg" alt="Аберрация астрономическая">
          <figcaption class="figcaption_general">Рис. 1 Аберрация астрономическая</figcaption>
       </figure>

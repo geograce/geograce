@@ -42,7 +42,8 @@
       <p class="title_dictionary">Э</p>
       <a href="/dictionary/eh/ehkvator.php">Экватор</a>
       <a href="/dictionary/eh/ehllips-iskazhenij.php">Эллипс искажений</a>
-      <br>
+      <a href="/dictionary/eh/ehkker.php">Эккер</a>
+      <a href="/dictionary/eh/ehlevacionnyj-vint.php">Элевационный винт</a>
       <br>
       <br>
       <br>

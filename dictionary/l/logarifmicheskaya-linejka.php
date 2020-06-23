@@ -43,7 +43,24 @@
       <h1 class="h1_description_general">Логарифмическая линейка</h1>
       <p class="txt_description_general"><strong>Логарифмическая линейка</strong> &ndash; портативный вычислительный
          прибор, которым широко пользуются, когда результат достаточно знать с двумя&ndash;тремя значащими цифрами.
-         На логарифмической линейке могут производиться все действия над числами, кроме сложения и вычитания.</p>
+         На логарифмической линейке могут производиться все действия над числами, кроме сложения и вычитания. На рисунке
+         показано несколько вариантов логарифмической линейки.</p>
+      <br>
+      <!--Слайдер==========================-->
+      <div class="slider">
+         <div class="slider_item">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-1.webp" alt="">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-2.webp" alt="">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-3.webp" alt="">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-4.webp" alt="">
+         </div>
+      </div>
       <br>
       <p class="txt_description_general">До начала 1980&ndash;х годов логарифмические линейки широко применялись для
          выполнения инженерных расчетов, но со временем были вытеснины калькуляторами. В наше время логарифмические
@@ -57,6 +74,9 @@
    ?>
 
    <script src="/js/mobile_menu_general.js"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+   <script type="text/javascript" src="/js/slajder.js"></script>
 </body>
 
 </html>

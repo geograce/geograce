@@ -6,7 +6,7 @@
       <a href="/index.html">Главная</a>
       <a href="/index.html">Алфавит</a>
       <a href="/blog/blog-1.php">Блог</a>
-      <!-- <a href="/about_us.html">О Нас</a> -->
+      <a href="/about-us.php">О Нас</a>
    </nav>
    <!--Логотип=====================================-->
    <a class="box_logo_general" href="/index.html">
@@ -18,7 +18,7 @@
       <a href="/index.html">Главная</a>
       <a href="/index.html">Алфавит</a>
       <a href="/blog/blog-1.php">Блог</a>
-      <!-- <a href="/about_us.html">О Нас</a> -->
+      <a href="/about-us.php">О Нас</a>
    </nav>
    <!--Бургер меню=================================-->
    <div class="burger_menu_general" id="bg_menu_general">

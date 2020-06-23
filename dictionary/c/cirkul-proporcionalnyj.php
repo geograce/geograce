@@ -45,6 +45,12 @@
          измерения отрезков на карте или аэрофотоснимке с одновременным их увеличением или уменьшением в необходимое
          число раз; применяется для переноса объектов с аэрофотоснимка на карту и изготовления копий или схем в
          увеличенном или уменьшенном масштабе сравнительно с оригиналом.</p>
+      <br>
+      <figure class="figure_img_description_general" style="max-width: 450px;">
+         <img class="img_description_general" src="/img/dictionary/c/cirkul-proporcionalnyj-1.webp"
+            alt="Циркуль пропорциональный">
+         <figcaption class="figcaption_general">Циркуль пропорциональный</figcaption>
+      </figure>
    </div>
 
    <?php

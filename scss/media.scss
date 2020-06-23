@@ -264,6 +264,7 @@
       .list_description_general{
          font-size: 16px;
          line-height: 1.4;
+         padding: 0;
       }
       .formula_description{
          font-size: 22px;
@@ -307,6 +308,33 @@
       .txt_article{
          font-size: 18px;
          line-height: 1.3;
+      }
+   }
+   //======================================================
+   //===============  СТРАНИЦА О НАС  =====================
+   //======================================================
+   .about_us{
+      padding: 0 10px;
+      .box_timeline_about_us{
+         grid-template-columns: 70px 20px 210px;
+         grid-template-rows: 15px 110px 15px 110px 15px 110px;
+         .circle_timeline_about_us{
+            width: 15px;
+            height: 15px;
+         }
+         .line_timeline_about_us{
+            margin-left: 77px;
+         }
+         .date_timeline_about_us{
+            font-size: 14px;
+         }
+         .title_date_timeline_about_us{
+            font-size: 14px;
+         }
+         .txt_date_timeline_about_us{
+            font-size: 12px;
+            // text-align: justify;
+         }
       }
    }
 }

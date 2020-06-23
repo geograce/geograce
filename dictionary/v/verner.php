@@ -49,11 +49,22 @@
          между штрихом лимба и начальным (нулевым) делением верньера, некоторый штрих дуги верньера совпадает с
          направлением некоторого штриха лимба. На рисунке 1 изображен верньер.</p>
       <br>
-      <figure class="figure_img_description_general" style="max-width: 400px;">
-         <img class="img_description_general" src="/img/dictionary/v/verner.svg" alt="Верньер">
-         <figcaption class="figcaption_general">Рис. 1 Верньер</figcaption>
-      </figure>
-
+      <!--Слайдер==========================-->
+      <div class="slider">
+         <div class="slider_item">
+            <img src="/img/dictionary/v/skhema-verner.svg" alt="Схема верньера">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/v/bussol-verner.webp" alt="Буссоль верньер">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/v/planimetr-verner.webp" alt="Планиметр верньер">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/v/shtangencirkul-verner.webp" alt="Штангельциркуль верньер">
+         </div>
+      </div>
+      <br>
       <p class="txt_description_general">Если T &ndash; угловая величина деления лимба, то конструктивная величина
          t<sub>0</sub> деления верньера будет:</p>
       <p class="formula_description">$$t_0 = {Tn \over n+1}$$</p>
@@ -64,18 +75,15 @@
       <p class="txt_description_general">k &ndash; номер совпадающего штриха верньера, считая его начальный штрих
          нулевым.
       </p>
-
       <p class="txt_description_general">Величина (T &ndash; t<sub>0</sub>)k обычно прочитывается по подписям на
-         верньере. Если, например, T = 10&prime;, n = 59, то t<sub>0</sub> = 90&prime;50 &Prime; и T&ndash;t<sub>0</sub>
+         верньере. Если, например, T = 10&prime;, n = 59, то t<sub>0</sub> = 90&prime;50&Prime; и T&ndash;t<sub>0</sub>
          = 10&Prime;</p>
-
       <p class="txt_description_general">Действительная угловая величина t деления верньера может отличаться от
          конструктивной t<sub>0</sub>. Если n+1 делениям верньера соответствует дуга лимба, равная T<sub>n</sub> +
          &delta;, то будем иметь:</p>
       <p class="formula_description">$$t = t_0+{&delta; \over n+1}$$</p>
       <p class="txt_description_general">В отсчет по такому верньеру вводится поправка, равная:</p>
       <p class="formula_description">$${&delta; \over n+1}k$$</p>
-
       <p class="txt_description_general">Величину &delta; находят из исследований, совмещая при каждой установке
          верньера его нулевой штрих со штрихом лимба и производя затем отсчеты по другому концу дуги вернера, условно
          принимая его (n + 1)&ndash;й штрих за нулевой. Если, например, &delta; = + 12 &Prime;, то поправка на одну
@@ -88,6 +96,9 @@
    ?>
 
    <script src="/js/mobile_menu_general.js"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+   <script type="text/javascript" src="/js/slajder.js"></script>
 </body>
 
 </html>

@@ -198,6 +198,7 @@
   .description_general .list_description_general {
     font-size: 16px;
     line-height: 1.4;
+    padding: 0;
   }
   .description_general .formula_description {
     font-size: 22px;
@@ -227,5 +228,29 @@
   .main_box_article .txt_article {
     font-size: 18px;
     line-height: 1.3;
+  }
+
+  .about_us {
+    padding: 0 10px;
+  }
+  .about_us .box_timeline_about_us {
+    grid-template-columns: 70px 20px 210px;
+    grid-template-rows: 15px 110px 15px 110px 15px 110px;
+  }
+  .about_us .box_timeline_about_us .circle_timeline_about_us {
+    width: 15px;
+    height: 15px;
+  }
+  .about_us .box_timeline_about_us .line_timeline_about_us {
+    margin-left: 77px;
+  }
+  .about_us .box_timeline_about_us .date_timeline_about_us {
+    font-size: 14px;
+  }
+  .about_us .box_timeline_about_us .title_date_timeline_about_us {
+    font-size: 14px;
+  }
+  .about_us .box_timeline_about_us .txt_date_timeline_about_us {
+    font-size: 12px;
   }
 }

@@ -1,5 +1,3 @@
 User-agent: *
 
-Disallow: /about-us.html
-
 Sitemap: https://www.geograce.ru/sitemap.xml
