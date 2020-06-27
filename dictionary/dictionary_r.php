@@ -40,24 +40,10 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Р</p>
-      <a href="/dictionary/r/radiogeodezicheskie-sistemy.php">Радиогеодезические системы</a>
-      <a href="/dictionary/r/radiosekstant.php">Радиосекстант</a>
-      <a href="/dictionary/r/radiosignaly-tochnogo-vremeni.php">Радиосигналы точного времени</a>
-      <a href="/dictionary/r/redaktirovanie-kart.php">Редактирование карт</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/r/radiogeodezicheskie-sistemy.php" style="margin-bottom: 350px;">Радиогеодезические системы</a>
+      <!-- <a href="/dictionary/r/radiosekstant.php">Радиосекстант</a> -->
+      <!-- <a href="/dictionary/r/radiosignaly-tochnogo-vremeni.php">Радиосигналы точного времени</a> -->
+      <!-- <a href="/dictionary/r/redaktirovanie-kart.php">Редактирование карт</a> -->
    </div>
 
    <?php

@@ -40,24 +40,8 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Ц</p>
-      <a href="/dictionary/c/cirkul-proporcionalnyj.php">Циркуль пропорциональный</a>
-      <a href="/dictionary/c/cifrovaya-model-mestnosti.html">Цифровая модель местности</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/c/cirkul-proporcionalnyj.php" style="margin-bottom: 350px;">Циркуль пропорциональный</a>
+      <!-- <a href="/dictionary/c/cifrovaya-model-mestnosti.php">Цифровая модель местности</a> -->
    </div>
 
    <?php

@@ -41,7 +41,7 @@
    <div class="home_blog">
       <h1 class="h1_home_blog">Статьи о геодезии</h1>
       <!--Статья 1============================-->
-      <div class="box_new_blog">
+      <div class="box_new_blog" style="margin-bottom: 150px;">
          <div class="img1_new_blog_home box_img_new_blog"></div>
          <div class="txt_new_blog">
             <p class="date_new_blog">14/04/2020</p>
@@ -52,14 +52,6 @@
                константа так важна,могут далеко не все.</p>
          </div>
       </div>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
    </div>
 
    <?php

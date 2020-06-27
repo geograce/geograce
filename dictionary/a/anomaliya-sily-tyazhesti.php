@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Аномалия силы тяжести разность между наблюденным (действительным) и нормальным (теоретическим) значениями силы тяжести">
+      content="Аномалия силы тяжести разность между наблюденным (действительным) и нормальным (теоретическим) значениями силы тяжести. Выделяют два основных вида аномалий силы тяжести">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">

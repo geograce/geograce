@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Аэрофотоаппарат оптико-механический аппарат, предназначенный для фотографирования местности с самолета или какого-либо другого летательного аппарата. ">
+      content="Аэрофотоаппарат оптико-механический прибор, предназначенный для аэрофотосъемки местности с самолета или какого-либо другого летательного аппарата. Аэрофотоаппараты бывают нескольких видов.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
@@ -69,7 +69,6 @@
             src="/img/dictionary/a/aehrofotoapparat-a-39a.webp" alt="Схема панорамной съемки">
          <figcaption class="figcaption_general">Рис. 1 Аэрофотоаппарат А&ndash;39А.</figcaption>
       </figure>
-
       <p class="txt_description_general">По своему назначению аэрофотоаппарат подразделяется на топографические и
          разведывательные (рекогносцировочные).</p>
       <br>

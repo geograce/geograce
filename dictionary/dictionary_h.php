@@ -40,25 +40,8 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Х</p>
-      <a href="/dictionary/h/khronograf.php">Хронограф</a>
-      <a href="/dictionary/h/khronometr.php">Хронометр</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/h/khronograf.php" style="margin-bottom: 350px;">Хронограф</a>
+      <!-- <a href="/dictionary/h/khronometr.php">Хронометр</a> -->
    </div>
 
    <?php

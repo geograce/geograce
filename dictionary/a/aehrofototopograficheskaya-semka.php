@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Аэрофототопографическая съемка вид топографической съемки, основанной на использовании аэрофотоснимков">
+      content="Аэрофототопографическая съемка вид топографической съемки, которая получена с использованием аэрофотоснимков. Аэрофототопографическая съемка включает аэрофотосъемку, полевые топогеодезические работы и камеральные фотограмметрические работы.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">

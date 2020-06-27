@@ -40,24 +40,9 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Д</p>
-      <a href="/dictionary/d/dalnomery-opticheskie.php">Дальномеры оптические</a>
-      <a href="/dictionary/d/dalnost-vidimosti.php">Дальность видимости</a>
-      <a href="/dictionary/d/demaskiruyushchie-priznaki.php">Демаскирующие признаки</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/d/dalnomery-opticheskie.php" style="margin-bottom: 350px;">Дальномеры оптические</a>
+      <!-- <a href="/dictionary/d/dalnost-vidimosti.php">Дальность видимости</a> -->
+      <!-- <a href="/dictionary/d/demaskiruyushchie-priznaki.php">Демаскирующие признаки</a> -->
    </div>
 
    <?php

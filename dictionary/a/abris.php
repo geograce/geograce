@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Абрис сделанный от руки схематический план участка местности, на котором показываются контуры угодий, местные предметы, результаты измерений и т.д.">
+      content="Абрис схематический план, изображение или набросок, которое выполняется от руки. На Абрисе показываются различные строения, контуры, результаты измерений и т.д.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Абрис</title>
+   <title>Абрис (что такое Абрис)</title>
 </head>
 
 <body>
@@ -38,6 +38,7 @@
    <?php
       require "../../module_php/menu_general.php";
    ?>
+   
    <div class="description_general">
       <h1 class="h1_description_general">Абрис</h1>
       <p class="txt_description_general"><strong>Абрис</strong> &ndash; схематический план участка местности, который

@@ -5,14 +5,14 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Аэрофотосъемка  фотографирование местности с самолета или какого-либо другого летательного аппарата">
+      content="Аэрофотосъемка фотографирование с летательного аппарата местности. Под аэрофотосъемкой подразумевают комплекс аэрофоторабот для получения аэрофотоснимков поверхности земли и объектов на ней.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
-   <title>Аэрофотосъемка</title>
+   <title>Аэрофотосъемка и методы аэрофотосъемки</title>
 </head>
 
 <body>

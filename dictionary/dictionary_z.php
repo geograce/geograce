@@ -40,22 +40,10 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">З</p>
-      <a href="/dictionary/z/zalozhenie-skata.php">Заложение ската</a>
-      <a href="/dictionary/z/zasechka-proektivnaya.php">Засечка проективная</a>
-      <a href="/dictionary/z/znak-geodezicheskij.php">Знак геодезический</a>
-      <a href="/dictionary/z/znaki-nivelirnye.php">Знаки нивелирные</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/z/zalozhenie-skata.php" style="margin-bottom: 350px;">Заложение ската</a>
+      <!-- <a href="/dictionary/z/zasechka-proektivnaya.php">Засечка проективная</a> -->
+      <!-- <a href="/dictionary/z/znak-geodezicheskij.php">Знак геодезический</a> -->
+      <!-- <a href="/dictionary/z/znaki-nivelirnye.php">Знаки нивелирные</a> -->
    </div>
 
    <?php

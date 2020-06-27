@@ -5,13 +5,12 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Азимут магнитный горизонтальный угол, отсчитываемый от северного направления магнитного меридиана до данного направления по ходу часовой стрелки от 0 до 360°.">
+      content="Азимут магнитный горизонтальный угол, отсчитываемый от северного направления магнитного меридиана до данного направления по ходу часовой стрелки. Магнитный азимут можно перевести в истинный азимут">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
    <title>Азимут магнитный</title>
 </head>
@@ -59,13 +58,6 @@
          истинный, если западное склонение равно 11&deg;10&prime;. Вычисляем по формуле:</p>
       <p class="formula_description">
          $$&alpha;=A_M+(&plusmn;&delta;)=151&deg;10^&prime;+(-11&deg;05^&prime;)=140&deg;05^&prime;$$</p>
-
-
-
-
-      <p class="txt_description_general"><strong></strong></p>
-      <p class="formula_description"></p>
-
    </div>
 
    <?php

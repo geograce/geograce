@@ -5,13 +5,12 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Азимут прямого нормального сечения  двугранный угол, образованный плоскостью геодезического меридиана исходной точки и плоскостью, проходящей через нормаль к поверхности эллипсоида в этой точке и заданную вторую точку">
+      content="Азимут прямого нормального сечения  двугранный угол, образованный плоскостью геодезического меридиана исходной точки и плоскостью, проходящей через нормаль к поверхности эллипсоида в этой точке и заданную вторую точку.Азимут нормального сечения это">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
    <title>Азимут прямого нормального сечения</title>
 </head>
@@ -70,9 +69,7 @@
          &prime;34.65&Prime;; L<sub>1</sub>
          &ndash; L<sub>2</sub> = &ndash;30&deg;12 &prime;59.72&Prime;</p>
       <p class="txt_description_general">По приведенным выше указанным формулам найдем A<sub>1,2</sub> = 329&deg;29
-         &prime;42.5&Prime;
-      </p>
-
+         &prime;42.5&Prime;</p>
    </div>
 
    <?php

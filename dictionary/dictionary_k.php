@@ -40,22 +40,11 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">К</p>
-      <a href="/dictionary/k/kartogramma.php">Картограмма</a>
-      <a href="/dictionary/k/kartograficheskaya-setka.php">Картографическая сетка</a>
-      <a href="/dictionary/k/kartografiya.php">Картография</a>
-      <a href="/dictionary/k/kartografo-geodezicheskaya-sluzhba-sssr.php">Картографо&ndash;геодезическая служба СССР</a>
-      <a href="/dictionary/k/kartometriya.php">Картометрия</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/k/kartogramma.php" style="margin-bottom: 350px;">Картограмма</a>
+      <!-- <a href="/dictionary/k/kartograficheskaya-setka.php">Картографическая сетка</a> -->
+      <!-- <a href="/dictionary/k/kartografiya.php">Картография</a> -->
+      <!-- <a href="/dictionary/k/kartografo-geodezicheskaya-sluzhba-sssr.php">Картографо&ndash;геодезическая служба СССР</a> -->
+      <!-- <a href="/dictionary/k/kartometriya.php">Картометрия</a> -->
    </div>
 
    <?php

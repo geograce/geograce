@@ -40,23 +40,10 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Б</p>
-      <a href="/dictionary/b/bazis-fotografirovaniya.php">Базис фотографирования</a>
-      <a href="/dictionary/b/barometricheskoe-nivelirovanie.php">Барометрическое нивелирование</a>
-      <a href="/dictionary/b/bashmak-nivelirnyj.php">Башмак нивелирный</a>
-      <a href="/dictionary/b/bolotova-sposob.php">Болотова способ</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/b/bazis-fotografirovaniya.php" style="margin-bottom: 350px;">Базис фотографирования</a>
+      <!-- <a href="/dictionary/b/barometricheskoe-nivelirovanie.php">Барометрическое нивелирование</a> -->
+      <!-- <a href="/dictionary/b/bashmak-nivelirnyj.php">Башмак нивелирный</a> -->
+      <!-- <a href="/dictionary/b/bolotova-sposob.php">Болотова способ</a> -->
    </div>
 
    <?php

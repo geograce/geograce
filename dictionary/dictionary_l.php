@@ -40,23 +40,10 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Л</p>
-      <a href="/dictionary/l/lazernaya-lokaciya-luny.php">Лазерная локация Луны</a>
-      <a href="/dictionary/l/limb.php">Лимб</a>
-      <a href="/dictionary/l/logarifmicheskaya-linejka.php">Логарифмическая линейка</a>
-      <a href="/dictionary/l/lichnaya-raznost.php">Личная разность</a>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
+      <a href="/dictionary/l/lazernaya-lokaciya-luny.php" style="margin-bottom: 350px;">Лазерная локация Луны</a>
+      <!-- <a href="/dictionary/l/limb.php">Лимб</a> -->
+      <!-- <a href="/dictionary/l/logarifmicheskaya-linejka.php">Логарифмическая линейка</a> -->
+      <!-- <a href="/dictionary/l/lichnaya-raznost.php">Личная разность</a> -->
    </div>
 
    <?php
