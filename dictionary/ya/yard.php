@@ -4,13 +4,14 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Ярд линейная мера в английской системе мер.">
+   <meta name="description"
+      content="Ярд линейная мера в английской системе мер.  Ярд как мера измерения длины не входит в систему СИ">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Ярд</title>
+   <title>Ярд - это ... Что такое Ярд?</title>
 </head>
 
 <body>
@@ -40,8 +41,9 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Ярд</h1>
-      <p class="txt_description_general"><strong>Ярд</strong> &ndash; линейная мера в английской системе мер, равная
-         0,9144 м; 1 ярд = 3 футам = 36 дюймам.</p>
+      <p class="txt_description_general"><strong>ЯРД</strong> &ndash; линейная мера в английской системе мер, равная
+         0,9144 м; 1 ярд = 3 футам = 36 дюймам. Ярд как мера измерения длины не входит в систему СИ. В разное время
+         пытались стандартизировать значения ярда из-за этого ярд имел разную величину.</p>
    </div>
 
    <?php

@@ -13,6 +13,7 @@ $color_txt1_index: rgb(129, 84, 0);
    //ЛЕВАЯ ЧАСТЬ==========================================
    .left_header{
       height: 100%;
+      width: 47%;
       background: url(../img/index/bg_point.svg) no-repeat;
       background-size: 300px;
       background-position: 0px 120px;
@@ -87,7 +88,7 @@ $color_txt1_index: rgb(129, 84, 0);
          }
       }
       .txt1_index{
-         margin-top: 150px;
+         margin-top: 80px;
          font-size: 28px;
          margin-bottom: 20px;
          margin-left: $m-left;
@@ -127,17 +128,26 @@ $color_txt1_index: rgb(129, 84, 0);
          }
       }
       .box_social{
-         margin-top: 50px;
+         margin-top: 40px;
+         padding-left: 30px;
          img{
             width: 50px;
             margin-right: 20px;
          }
       }
+      .description_index{
+         color: rgb(163, 106, 0);
+         font-family: 'Marck Script', cursive;
+         text-align: right;
+         padding: 0 30px;
+         margin-top: 10px;
+         font-size: 16px;
+      }
    }
    //ПРАВАЯ ЧАСТЬ=========================================
    .right_header{
       height: 100%;
-      width: 63%;
+      width: 53%;
       background: url(../img/index/bg_seti.svg) center no-repeat;
       background-size: cover;
       //Правое мобильное меню============================

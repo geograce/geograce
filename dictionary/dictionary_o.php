@@ -41,6 +41,7 @@
    <div class="box_dictionary_general">
       <p class="title_dictionary">О</p>
       <a href="/dictionary/o/obnovlenie-topograficheskikh-kart.php" style="margin-bottom: 350px;">Обновление топографических карт</a>
+      <!-- <a href="/dictionary/o/opticheskij-dalnomer.php" style="margin-bottom: 350px;">Оптический дальномер</a> -->
       <!-- <a href="/dictionary/o/orientirovanie-geodezicheskoe.php">Ориентирование геодезическое</a> -->
       <!-- <a href="/dictionary/o/orientirovanie-po-karte.php">Ориентирование по карте</a> -->
       <!-- <a href="/dictionary/o/ortofotoproektor.php">Ортофотопроектор</a> -->

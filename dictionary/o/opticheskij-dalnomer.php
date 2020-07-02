@@ -35,7 +35,7 @@
       <div><img src="https://mc.yandex.ru/watch/64847890" style="position:absolute; left:-9999px;" alt="" /></div>
    </noscript>
    <!-- /Yandex.Metrika counter -->
-   
+
    <?php
       require "../../module_php/menu_general.php";
    ?>

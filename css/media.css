@@ -149,13 +149,16 @@
     margin-top: 80px;
     margin-left: 10px;
   }
-  .index_header .left_header .txt1_index .h1_index {
+  .index_header .left_header .h1_index {
     font-size: 30px;
     margin-left: 10px;
   }
-  .index_header .left_header .txt1_index .txt2_index {
+  .index_header .left_header .txt2_index {
     font-size: 24px;
     margin-left: 10px;
+  }
+  .index_header .left_header .description_index {
+    text-align: left;
   }
   .index_header .right_header .box_alphabet {
     grid-template-columns: repeat(4, 50px);
