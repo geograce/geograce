@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Башмак нивелирный металлическая подставка в виде диска для установки на нее нивелирной рейки.">
+      content="Башмак нивелирный предусмотрен для установки на него нивелирную рейку. Иногда за место нивелирных башмаков применяют костыли">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Башмак нивелирование</title>
+   <title>Башмак нивелирование - это... Что такое Башмак нивелирный?</title>
 </head>
 
 <body>
@@ -41,12 +41,10 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Башмак нивелирный</h1>
-      <p class="txt_description_general"><strong>Башмак нивелирный</strong> &ndash; металлическая подставка в виде
-         диска для установки на нее нивелирной рейки. Вместо башмаков применяют еще забиваемые в землю костыли.
-         Установка башмака (с вдавливанием шипов в грунт) производится путем надавливания на него ногой рабочего.</p>
-      <br>
-      <br>
-      <br>
+      <p class="txt_description_general"><strong>БАШМАК НИВЕЛИРНЫЙ</strong> &ndash; предусмотрен для установки на него
+         нивелирную рейку и представляет собой металлическую подставку, сделанную в виде диска. Иногда за место
+         нивелирных башмаков применяют костыли, которые забиваются в землю. Фиксация башмака на земле производится путем
+         надавливания на него ногой.</p>
       <figure class="figure_img_description_general" style="max-width: 300px;">
          <img class="img_description_general" src="/img/dictionary/b/bashmak-nivelirovanie.webp"
             alt="Башмак нивелирный">

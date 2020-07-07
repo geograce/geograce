@@ -40,8 +40,8 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Т</p>
-      <a href="/dictionary/t/takheometr.php" style="margin-bottom: 350px;">Тахеометр</a>
-      <!-- <a href="/dictionary/t/topografiya.php">Топография</a> -->
+      <a href="/dictionary/t/takheometr.php">Тахеометр</a>
+      <a href="/dictionary/t/topografiya.php" style="margin-bottom: 340px;">Топография</a>
       <!-- <a href="/dictionary/t/topocentricheskie-koordinaty.php">Топоцентрические координаты</a> -->
    </div>
 

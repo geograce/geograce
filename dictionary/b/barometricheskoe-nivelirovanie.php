@@ -47,7 +47,8 @@
          производится с помощью барометра. Если в точках B<sub>1</sub> и В<sub>2</sub> измерить атмосферное давление и
          температуру воздуха t<sub>1</sub> и t<sub>2</sub>, то превышение между точками
          H<sub>2</sub>&ndash;H<sub>1</sub> можно определить по приближенной барометрической формуле:</p>
-      <p class="formula_description">$$H_2-H_1=K_0(1+&alpha;t_{ср} )(lgB_1-lgB_2) \,\,\,\,\,\,(a)$$</p>
+      <p class="formula_description">$$H_2-H_1=$$</p>
+      <p class="formula_description">$$=K_0(1+&alpha;t_{ср} )(lgB_1-lgB_2) \,\,\,(a)$$</p>
       <p class="txt_description_general">где:</p>
       <p class="txt_description_general" style="margin-bottom: 0;">K<sub>0</sub> = 18470 &ndash; согласно определению
          Певцова М.В.;</p>
@@ -58,7 +59,8 @@
          логарифмов измеренных значений атмосферного давления (мм рт. ст.)</p>
       <p class="txt_description_general">Когда используют таблицы барических ступеней высот, то формула (а) приобретает
          вид:</p>
-      <p class="formula_description">$$H_2-H_1= {k\over B_{ср}}(1+&alpha;t_{ср} )(B_1-B_2) \,\,\,\,\,\,(б)$$</p>
+      <p class="formula_description">$$H_2-H_1=$$</p>
+      <p class="formula_description">$$= {k\over B_{ср}}(1+&alpha;t_{ср} )(B_1-B_2) \,\,\,\,(б)$$</p>
       <p class="txt_description_general">где:</p>
       <p class="txt_description_general" style="margin-bottom: 0;">k = K<sub>0</sub>&mu; = 18470 * 0,4343 &asymp; 8000
       </p>

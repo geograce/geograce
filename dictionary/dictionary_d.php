@@ -40,8 +40,8 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">Д</p>
-      <a href="/dictionary/d/dalnost-vidimosti.php" style="margin-bottom: 350px;">Дальность видимости</a>
-      <!-- <a href="/dictionary/d/demaskiruyushchie-priznaki.php">Демаскирующие признаки</a> -->
+      <a href="/dictionary/d/dalnost-vidimosti.php">Дальность видимости</a>
+      <a href="/dictionary/d/demaskiruyushchie-priznaki.php" style="margin-bottom: 340px;">Демаскирующие признаки</a>
    </div>
 
    <?php

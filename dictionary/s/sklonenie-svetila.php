@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Склонение светила сферическое расстояние светила от небесного экватора и отсчитывается от экватора:">
+      content="Склонение светила  сферическое расстояние светила от небесного экватора, которое отсчитывается в диапазоне от... Склонение светила не изменяется из-за вращения Земли вокруг своей оси и является координатой">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Склонение светила</title>
+   <title>Склонение светила - это... Что такое склонение светила?</title>
 </head>
 
 <body>
@@ -41,10 +41,10 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Склонение светила</h1>
-      <p class="txt_description_general"><strong>Склонение светила</strong> &ndash; сферическое расстояние светила от
-         небесного экватора; отсчитывается от экватора: от 0 до +90&deg; &ndash; к северному и до -90&deg; к южному
-         полюсу мира; обозначается обычно буквой &delta;. Склонение светила не изменяется из&ndash;за суточного
-         вращения Земли и является координатой, приводимой в каталогах координат небесных светил.</p>
+      <p class="txt_description_general"><strong>СКЛОНЕНИЕ СВЕТИЛА</strong> &ndash; сферическое расстояние светила от
+         небесного экватора, которое отсчитывается в диапазоне от 0 до +90 градусов к северному полюсу мира, а 0 до -90
+         градусов к южному и обозначается как правило &delta;. Склонение светила не изменяется из&ndash;за вращения
+         Земли вокруг своей оси и является координатой, которую можно узнать в каталоге координат небесных светил.</p>
    </div>
 
    <?php

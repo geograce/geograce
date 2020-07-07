@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Цифровая модель местности отображение земной поверхности или ее элементов, выражающее пространственную определенность и структурную подробность объектов местности, сформированное по определенным требованиям в цифровой форме и отвечающее установленным правилам обращения.">
+      content="Цифровая модель местности отображение земной поверхности или ее элементов, в цифровой форме. В РФ требования к цифровым моделям местности регламентируются ГОСТ...">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Цифровая модель местности</title>
+   <title>Цифровая модель местности - это... Что таоке цифровая модель?</title>
 </head>
 
 <body>
@@ -51,8 +51,6 @@
             alt="Цифровая модель местности">
          <figcaption class="figcaption_general">Рис. 1 Цифровая модель местности</figcaption>
       </figure>
-
-
       <p class="txt_description_general">Исходными данными для построения цифровой модели местности могут быть:</p>
       <br>
       <p class="list_description_general" style="padding-bottom: 0;">&bull; результаты наземной площадной съемки,

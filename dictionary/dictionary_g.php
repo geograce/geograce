@@ -39,8 +39,8 @@
    ?>
    <div class="box_dictionary_general">
       <p class="title_dictionary">Г</p>
-      <a href="/dictionary/g/geliotrop.php" style="margin-bottom: 350px;">Гелиотроп</a>
-      <!-- <a href="/dictionary/g/generalizaciya-kartograficheskaya.php">Генерализация картографическая</a> -->
+      <a href="/dictionary/g/geliotrop.php">Гелиотроп</a>
+      <a href="/dictionary/g/generalizaciya-kartograficheskaya.php" style="margin-bottom: 340px;">Генерализация картографическая</a>
       <!-- <a href="/dictionary/g/geodezicheskaya-liniya.php">Геодезическая линия</a> -->
       <!-- <a href="/dictionary/g/geodezicheskaya-set.php">Геодезическая сеть</a> -->
    </div>

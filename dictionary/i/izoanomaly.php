@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Изоаномалы линии, соединяющие точки с равными значениями аномалий силы тяжести, применяются на гравиметрических картах.">
+      content="Изоаномалы линии, которые соединяют точки с одинаковыми значениями аномалий силы тяжести. Сечение изоаномал карты выбирают в зависимости от конкретных задач и интенсивности предполагаемых, а также исследуемых аномалий.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Изоаномалы</title>
+   <title>Изоаномалы - это... Что такое изоаномалы?</title>
 </head>
 
 <body>
@@ -41,8 +41,12 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Изоаномалы</h1>
-      <p class="txt_description_general"><strong>Изоаномалы</strong> &ndash; линии, соединяющие точки с равными
-         значениями аномалий силы тяжести, применяются на гравиметрических картах.</p>
+      <p class="txt_description_general"><strong>ИЗОАНОМАЛЫ</strong> &ndash; линии, которые соединяют точки с
+         одинаковыми значениями аномалий силы тяжести и отображаются на гравиметрических картах, которые служат одним из
+         первичных материалов для последующей геологической интерпретации. Сечение изоаномал карты выбирают в
+         зависимости от конкретных задач и интенсивности предполагаемых, а также исследуемых аномалий. Обычно сечения
+         принимают такие: 20&ndash;40 мГал &ndash; это мировая съемка до 2&ndash;5 мкГал &ndash; микрогравиметрическая
+         съемка.</p>
    </div>
 
    <?php

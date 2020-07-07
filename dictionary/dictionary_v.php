@@ -40,9 +40,9 @@
 
    <div class="box_dictionary_general">
       <p class="title_dictionary">В</p>
-      <a href="/dictionary/v/velichiny-izmerennye-vychislennye-i-postoyannye.php" style="margin-bottom: 350px;">Величины измеренные, вычисленные и
+      <a href="/dictionary/v/velichiny-izmerennye-vychislennye-i-postoyannye.php">Величины измеренные, вычисленные и
          постоянные</a>
-      <!-- <a href="/dictionary/v/velichiny-nezavisimye-i-zavisimye.php">Величины независимые и зависимые</a> -->
+      <a href="/dictionary/v/velichiny-nezavisimye-i-zavisimye.php" style="margin-bottom: 340px;">Величины независимые и зависимые</a>
       <!-- <a href="/dictionary/v/verner.php">Верньер</a> -->
    </div>
 

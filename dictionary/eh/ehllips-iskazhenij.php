@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Эллипс искажений бесконечно малый эллипс на карте, являющийся изображением бесконечно малого круга на поверхности эллипсоида.">
+      content="Эллипс искажений бесконечно маленький эллипс на карте который является изображением бесконечно маленького круга. Направления осей эллипса искажений совпадают с направлениями наибольшего а и наименьшего Ь линейных масштабов.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Эллипс искажений</title>
+   <title>Эллипс искажений - это... Что такое эллипс искажений?</title>
 </head>
 
 <body>
@@ -41,9 +41,9 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Эллипс искажений</h1>
-      <p class="txt_description_general"><strong>Эллипс искажений</strong> &ndash; бесконечно малый эллипс на карте,
-         являющийся изображением бесконечно малого круга на поверхности эллипсоида. Характеризует величину частного
-         масштаба в данной точке по различным направлениям. Направления осей эллипса искажений совпадают с
+      <p class="txt_description_general"><strong>ЭЛЛИПС ИСКАЖЕНИЙ</strong> &ndash; бесконечно маленький эллипс на карте
+         который является изображением бесконечно маленького круга на поверхности эллипсоида. Характеризует величину
+         частного масштаба в конкретной точке по различным направлениям. Направления осей эллипса искажений совпадают с
          направлениями наибольшего а и наименьшего Ь линейных масштабов и называются главными.</p>
    </div>
 

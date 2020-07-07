@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Абрис схематический план, изображение или набросок, которое выполняется от руки. На Абрисе показываются различные строения, контуры, результаты измерений и т.д.">
+      content="Абрис схематический план, изображение или набросок, которое выполняется от руки. На Абрисе показываются различные строения, контуры, результаты измерений.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Абрис (что такое Абрис)</title>
+   <title>Абрис - это... Что такое Абрис?</title>
 </head>
 
 <body>
@@ -41,11 +41,10 @@
    
    <div class="description_general">
       <h1 class="h1_description_general">Абрис</h1>
-      <p class="txt_description_general"><strong>Абрис</strong> &ndash; схематический план участка местности, который
+      <p class="txt_description_general"><strong>АБРИС</strong> &ndash; схематический план участка местности, который
          рисуется от руки карандашом. На абрисе показывают: результаты угловых и линейных измерений, контуры территорий,
          строения, водные объекты и т.д. На абрисе также делают различные пояснительные надписи к объектам.
          Схематический план должен давать полное представление о ситуации снимаемой местности.</p>
-
       <figure class="figure_img_description_general" style="max-width: 450px;">
          <img class="img_description_general" src="/img/dictionary/a/abris.svg" alt="Абрис">
          <figcaption class="figcaption_general">Рис. 1 Абрис</figcaption>
