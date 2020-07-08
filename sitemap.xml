@@ -10,96 +10,230 @@
   <loc>https://www.geograce.ru/blog/articles/chto-znachit-chislo-pi.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<!--===== А =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/a/aberraciya-astronomicheskaya.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/a/abris.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Б =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/b/barometricheskoe-nivelirovanie.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/b/bashmak-nivelirnyj.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== В =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/v/velichiny-izmerennye-vychislennye-i-postoyannye.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/v/velichiny-nezavisimye-i-zavisimye.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Г =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/g/geliotrop.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/g/generalizaciya-kartograficheskaya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Д =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/d/dalnost-vidimosti.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/d/demaskiruyushchie-priznaki.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== З =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/z/zalozhenie-skata.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/z/znak-geodezicheskij.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== И =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/i/izdanie-kart.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/i/izoanomaly.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== К =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/k/kartogramma.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/k/kartograficheskaya-setka.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Л =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/l/lazernaya-lokaciya-luny.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/l/limb.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== М =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/m/maket-mestnosti.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/m/matematicheskaya-kartografiya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Н =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/n/naklonenie-magnitnoj-strelki.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/n/naselennye-punkty.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== О =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/o/obnovlenie-topograficheskikh-kart.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/o/orientirovanie-po-karte.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== П =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/p/pantograf.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/p/peredacha-geograficheskikh-nazvanij.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Р =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/r/radiosekstant.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/r/radiosignaly-tochnogo-vremeni.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== С =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/s/sklonenie-magnitnoj-strelki.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/s/sklonenie-svetila.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Т =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/t/takheometr.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/t/topografiya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== У =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/u/uslovnye-znaki-kart.php</loc>
   <changefreq>daily</changefreq>
 </url>
+
+<!--===== Ф =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/f/filtraciya-izobrazheniya.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/f/fotogrammetriya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Х =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/h/khronograf.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/h/khronometr.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Ц =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/c/cirkul-proporcionalnyj.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/c/cifrovaya-model-mestnosti.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Ч =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/ch/chasovoj-ugol.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/ch/chasovaya-mera-uglov.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Э =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/eh/ehkvator.php</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>https://www.geograce.ru/dictionary/eh/ehllips-iskazhenij.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
+<!--===== Я =====-->
+<url>
   <loc>https://www.geograce.ru/dictionary/ya/yard.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/ya/yarkost-obektov-mestnosti.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+
 </urlset>
