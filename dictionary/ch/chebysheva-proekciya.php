@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Чебышева проекция равноугольная проекция, в которой частный масштаб на контуре картографируемой территории постоянен.">
+      content="Чебышева проекция равноугольная проекция, в которой частный масштаб на контуре картографируемой территории постоянен. Примером проекции Чебышева может служить стереографическая проекция любой области сферы, ограниченной окружностью.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Чебышева проекция</title>
+   <title>Чебышева проекция - это... Что такое проекция Чебышева?</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Чебышева проекция</h1>
-      <p class="txt_description_general"><strong>Чебышева проекция</strong> &ndash; равноугольная проекция, в которой
+      <p class="txt_description_general"><strong>ЧЕБЫШЕВА ПРОЕКЦИЯ</strong> &ndash; равноугольная проекция, в которой
          частный масштаб на контуре картографируемой территории постоянен. По теореме П. Л. Чебышева, высказанной им
          в 1853 г. без доказательства и доказанной Д. А. Граве в 1894 г., наибольшее колебание (уклонение от единицы)
          частного масштаба в такой проекции меньше, чем в любой другой равноугольной проекции. Например, для

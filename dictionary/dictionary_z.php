@@ -42,8 +42,8 @@
       <p class="title_dictionary">З</p>
       <a href="/dictionary/z/zalozhenie-skata.php">Заложение ската</a>
       <!-- <a href="/dictionary/z/zasechka-proektivnaya.php">Засечка проективная</a> -->
-      <a href="/dictionary/z/znak-geodezicheskij.php"style="margin-bottom: 340px;">Знак геодезический</a>
-      <!-- <a href="/dictionary/z/znaki-nivelirnye.php">Знаки нивелирные</a> -->
+      <a href="/dictionary/z/znak-geodezicheskij.php">Знак геодезический</a>
+      <a href="/dictionary/z/znaki-nivelirnye.php" style="margin-bottom: 330px;">Знаки нивелирные</a>
    </div>
 
    <?php

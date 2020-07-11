@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Межень период наиболее устойчивого уровня воды в реке, когда река питается главным образом грунтовыми водами. Реки на картах изображаются по состоянию в межень.">
+      content="Межень период период наиболее устойчивого уровня воды в реке, когда река питается главным образом грунтовыми водами.Если межень длится более месяца, то он считается продолжительным">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Межень</title>
+   <title>Межень - это... Когда возникает межень?</title>
 </head>
 
 <body>
@@ -41,9 +41,11 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Межень</h1>
-      <p class="txt_description_general"><strong>Межень</strong> &ndash; период наиболее устойчивого уровня воды в
-         реке, когда река питается главным образом грунтовыми водами. Реки на картах изображаются по состоянию в
-         межень.</p>
+      <p class="txt_description_general"><strong>МЕЖЕНЬ</strong> &ndash; период наиболее устойчивого уровня воды в реке,
+         когда река питается главным образом грунтовыми водами и длится в зависимости от климатических условий, как
+         правило от нескольких дней до нескольких недель. Если межень длится более месяца, то он считается
+         продолжительным, а если продолжительность от 10 до 30 дней, то короткий межень. Реки на картах изображаются по
+         состоянию в межень.</p>
    </div>
 
    <?php

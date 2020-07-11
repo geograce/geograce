@@ -42,8 +42,8 @@
       <p class="title_dictionary">Б</p>
       <!-- <a href="/dictionary/b/bazis-fotografirovaniya.php">Базис фотографирования</a> -->
       <a href="/dictionary/b/barometricheskoe-nivelirovanie.php">Барометрическое нивелирование</a>
-      <a href="/dictionary/b/bashmak-nivelirnyj.php" style="margin-bottom: 340px;">Башмак нивелирный</a>
-      <!-- <a href="/dictionary/b/bolotova-sposob.php">Болотова способ</a> -->
+      <a href="/dictionary/b/bashmak-nivelirnyj.php">Башмак нивелирный</a>
+      <a href="/dictionary/b/bolotova-sposob.php" style="margin-bottom: 330px;">Болотова способ</a>
    </div>
 
    <?php

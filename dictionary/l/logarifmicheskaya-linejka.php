@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Логарифмическая линейка портативный вычислительный прибор, которым широко пользуются, когда результат достаточно знать с двумя&ndash;тремя значащими цифрами.">
+      content="Логарифмическая линейка портативный вычислительный прибор, основой которого является логарифмическая шкала с нанесенной на нее логарифмы чисел. Нормальная логарифмическая линейка имеет три основных части">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Логарифмическая линейка</title>
+   <title>Логарифмическая линейка - это... Что такое логарифмическая линейка</title>
 </head>
 
 <body>
@@ -41,32 +41,32 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Логарифмическая линейка</h1>
-      <p class="txt_description_general"><strong>Логарифмическая линейка</strong> &ndash; портативный вычислительный
-         прибор, которым широко пользуются, когда результат достаточно знать с двумя&ndash;тремя значащими цифрами.
-         На логарифмической линейке могут производиться все действия над числами, кроме сложения и вычитания. На рисунке
-         показано несколько вариантов логарифмической линейки.</p>
-      <br>
+      <p class="txt_description_general"><strong>ЛОГАРИФМИЧЕСКАЯ ЛИНЕЙКА</strong> &ndash; портативный вычислительный
+         прибор, основой которого является логарифмическая шкала с нанесенной на нее логарифмы чисел. При помощи
+         логарифмической линейки могут производиться все действия над числами, кроме сложения и вычитания, а точность
+         расчетов зависит от длины ее шкал. Нормальная логарифмическая линейка имеет три основных части: корпус, у
+         которого присутствует продольный паз, движок, который свободно перемещается в пазах корпуса и бегунок, на
+         стекле которого нанесена визирная линия.</p>
       <!--Слайдер==========================-->
       <div class="slider">
          <div class="slider_item">
-            <img src="/img/dictionary/l/logarifmicheskaya-linejka-1.webp" alt="">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-1.webp" alt="Логарифмическая линейка">
          </div>
          <div class="slider_item">
-            <img src="/img/dictionary/l/logarifmicheskaya-linejka-2.webp" alt="">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-2.webp" alt="Логарифмическая линейка">
          </div>
          <div class="slider_item">
-            <img src="/img/dictionary/l/logarifmicheskaya-linejka-3.webp" alt="">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-3.webp" alt="Круговая логарифмическая линейка">
          </div>
          <div class="slider_item">
-            <img src="/img/dictionary/l/logarifmicheskaya-linejka-4.webp" alt="">
+            <img src="/img/dictionary/l/logarifmicheskaya-linejka-4.webp" alt="Часы с логарифмической линейкой">
          </div>
       </div>
       <br>
-      <p class="txt_description_general">До начала 1980&ndash;х годов логарифмические линейки широко применялись для
-         выполнения инженерных расчетов, но со временем были вытеснины калькуляторами. В наше время логарифмические
-         линейки получили второе рождения и стали применяться в наручных часах. Производители некоторых марок выпустили
-         модели часов с логарифмической линейкой, которая сделана в виде вращающихся колец со шкалами вокруг циферблата.
-      </p>
+      <p class="txt_description_general">До 1980&ndash;х годов логарифмические линейки были очень популярны при
+         вычислении различных инженерных расчетов, но со временем были вытеснены калькуляторами, но в наше время линейка
+         получила второе рождение и стала применяться в наручных часах. Некоторые производители выпустили модели часов с
+         логарифмической линейкой, которая сделана в виде вращающихся окружностей вокруг циферблата.</p>
    </div>
 
    <?php

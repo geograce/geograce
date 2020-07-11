@@ -41,8 +41,8 @@
    <div class="box_dictionary_general">
       <p class="title_dictionary">Э</p>
       <a href="/dictionary/eh/ehkvator.php">Экватор</a>
-      <a href="/dictionary/eh/ehllips-iskazhenij.php" style="margin-bottom: 340px;">Эллипс искажений</a>
-      <!-- <a href="/dictionary/eh/ehkker.php">Эккер</a> -->
+      <a href="/dictionary/eh/ehllips-iskazhenij.php">Эллипс искажений</a>
+      <a href="/dictionary/eh/ehkker.php" style="margin-bottom: 330px;">Эккер</a>
       <!-- <a href="/dictionary/eh/ehlevacionnyj-vint.php">Элевационный винт</a> -->
    </div>
 

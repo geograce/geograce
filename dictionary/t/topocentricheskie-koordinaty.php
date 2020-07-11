@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Топоцентрические координаты система сферических координат, началом которых служит точка земной поверхности, основным направлением направление отвесной линии в этой точке, а основной плоскостью плоскость астрономического меридиана.">
+      content="Топоцентрические координаты система сферических координат, началом которых служит точка земной поверхности, основным направлением направление отвесной линии в этой точке, а основной плоскостью плоскость астрономического меридиана. В сферической астрономии система топоцентрические координаты называется...">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Топоцентрические координаты</title>
+   <title>Топоцентрические координаты - это... Что такое топоцентрические координаты?</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Топоцентрические координаты</h1>
-      <p class="txt_description_general"><strong>Топоцентрические координаты</strong> &ndash; система сферических
+      <p class="txt_description_general"><strong>ТОПОЦЕНТРИЧЕСКИЕ КООРДИНАТЫ</strong> &ndash; система сферических
          координат, началом которых служит точка земной поверхности, основным направлением &ndash; направление
          отвесной линии в этой точке, а основной плоскостью &ndash; плоскость астрономического меридиана. В системе
          топоцентрических координат производятся астрономические, геодезические и гравиметрические измерения на

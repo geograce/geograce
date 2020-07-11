@@ -41,8 +41,8 @@
    <div class="box_dictionary_general">
       <p class="title_dictionary">Ч</p>
       <a href="/dictionary/ch/chasovoj-ugol.php">Часовой угол</a>
-      <a href="/dictionary/ch/chasovaya-mera-uglov.php" style="margin-bottom: 340px;">Часовая мера углов</a>
-      <!-- <a href="/dictionary/ch/chebysheva-proekciya.php">Чебышева проекция</a> -->
+      <a href="/dictionary/ch/chasovaya-mera-uglov.php">Часовая мера углов</a>
+      <a href="/dictionary/ch/chebysheva-proekciya.php"  style="margin-bottom: 330px;">Чебышева проекция</a>
       <!-- <a href="/dictionary/ch/chertezh.php">Чертеж</a> -->
       <!-- <a href="/dictionary/ch/chertezhnyj-pribor.php">Чертежный прибор</a> -->
    </div>

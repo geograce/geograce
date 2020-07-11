@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Начальное направление направление, проведенное из главной точки одного аэрофотоснимка на главную точку другого, смежного с ним. При невозможности определить точное положение главных точек вместо них берутся центральные точки.">
+      content="Начальное направление - это направление которое проведено из главной точки одного аэрофотоснимка на главную точку другого, смежного с ним.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Начальное направление</title>
+   <title>Начальное направление - это... Что такое начальное направление?</title>
 </head>
 
 <body>
@@ -41,9 +41,9 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Начальное направление</h1>
-      <p class="txt_description_general"><strong>Начальное направление</strong> (на аэрофотоснимке) &ndash;
-         направление, проведенное из главной точки одного аэрофотоснимка на главную точку другого, смежного с ним.
-         При невозможности определить точное положение главных точек вместо них берутся центральные точки.</p>
+      <p class="txt_description_general"><strong>НАЧАЛЬНОЕ НАПРАВЛЕНИЕ</strong> (на аэрофотоснимке) &ndash; направление,
+         которое проведено из главной точки одного аэрофотоснимка на главную точку другого, смежного с ним. Если нет
+         возможности определить точное положение главных точек вместо них берутся центральные точки.</p>
    </div>
 
    <?php

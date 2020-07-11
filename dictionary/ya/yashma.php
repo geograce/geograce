@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Яшма осадочная горная порода, скрытокристаллическая, плотная и непрозрачная. Окрашена оксидами железа и марганца в различные цвета, при этом окраска на породе неравномерная.">
+      content="Яшма осадочная горная порода, скрытокристаллическая, плотная и непрозрачная. Яшма красивый поделочный камень, а также прочный.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Яшма</title>
+   <title>Яшма - это... горная порода Яшма.</title>
 </head>
 
 <body>
@@ -40,11 +40,10 @@
    ?>
    <div class="description_general">
       <h1 class="h1_description_general">Яшма</h1>
-      <p class="txt_description_general"><strong>Яшма</strong> &ndash; осадочная горная порода, скрытокристаллическая,
+      <p class="txt_description_general"><strong>ЯШМА</strong> &ndash; осадочная горная порода, скрытокристаллическая,
          плотная и непрозрачная. Окрашена оксидами железа и марганца в различные цвета, при этом окраска на породе
          неравномерная. Яшма красивый поделочный камень, а также прочный. В технике используют для производства опорных
          призм, матриц, ступок и др.</p>
-      <br>
       <!--Слайдер==========================-->
       <div class="slider">
          <div class="slider_item">

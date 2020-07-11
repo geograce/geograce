@@ -12,7 +12,7 @@
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
-   <title>Эккер</title>
+   <title>Эккер - это... Для чего предназначен эккер?</title>
 </head>
 
 <body>
@@ -42,12 +42,11 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Эккер</h1>
-      <p class="txt_description_general"><strong>Эккер</strong> &ndash; прибор, служащий для построения на местности
+      <p class="txt_description_general"><strong>ЭККЕР</strong> &ndash; прибор, служащий для построения на местности
          прямых углов и применяемый при съемке ситуации и разбивке кривых, также некоторые эккеры позволяют строить углы
          в 45&deg; и находить точку, лежащую в створе между двумя данными, т. е. «вставать в створ». Существуют эккеры
          отражательные (оптические) и простые (с диоптрами). Отражательные бывают двузеркальные, однопризменные и
          двупризменнные. На слайдере изображена схема эккера и его изображение.</p>
-      <br>
       <!--Слайдер==========================-->
       <div class="slider">
          <div class="slider_item">

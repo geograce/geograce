@@ -42,8 +42,8 @@
       <p class="title_dictionary">Ф</p>
       <a href="/dictionary/f/filtraciya-izobrazheniya.php">Фильтрация изображения</a>
       <!-- <a href="/dictionary/f/fotogrammetricheskie-zasechki.php">Фотограмметрические засечки</a> -->
-      <a href="/dictionary/f/fotogrammetriya.php" style="margin-bottom: 340px;">Фотограмметрия</a>
-      <!-- <a href="/dictionary/f/fotokarty-topograficheskie.php">Фотокарты топографические</a> -->
+      <a href="/dictionary/f/fotogrammetriya.php">Фотограмметрия</a>
+      <a href="/dictionary/f/fotokarty-topograficheskie.php" style="margin-bottom: 330px;">Фотокарты топографические</a>
    </div>
 
    <?php

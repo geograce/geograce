@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Изобары линии на карте, соединяющие точки земной поверхности с одинаковым атмосферным давлением. Изобаты строятся для средних значений атмосферного давления в некоторые периоды времени (например, месяцы), полученных из многолетних наблюдений, или для атмосферного давления в определенные моменты времени.">
+      content="Изобары линии на карте, соединяющие точки земной поверхности с одинаковым атмосферным давлением. Изобары строятся для средних значений атмосферного давления в некоторые периоды времени, полученных из многолетних наблюдений.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Изобары</title>
+   <title>Изобары - это... Что такое изобары?</title>
 </head>
 
 <body>
@@ -41,12 +41,11 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Изобары</h1>
-      <p class="txt_description_general"><strong>Изобары</strong> &ndash; линии на карте, соединяющие точки земной
+      <p class="txt_description_general"><strong>ИЗОБАРЫ</strong> &ndash; линии на карте, соединяющие точки земной
          поверхности с одинаковым атмосферным давлением. Изобары строятся для средних значений атмосферного давления
          в некоторые периоды времени (например, месяцы), полученных из многолетних наблюдений, или для атмосферного
          давления в определенные моменты времени. Изобары применяются на метеорологических картах. На рисунке 1
-         изображены изобары ввиде плавных коричневых линий.</p>
-      <br>
+         изображены изобары в виде плавных коричневых линий.</p>
       <figure class="figure_img_description_general" style="max-width: 500px;">
          <img class="img_description_general" src="/img/dictionary/i/izobary.svg" alt="Изобары">
          <figcaption class="figcaption_general">Рис. 1 Изобары</figcaption>
