@@ -42,8 +42,8 @@
       <p class="title_dictionary">М</p>
       <a href="/dictionary/m/maket-mestnosti.php">Макет местности</a>
       <a href="/dictionary/m/matematicheskaya-kartografiya.php">Математическая картография</a>
-      <a href="/dictionary/m/mezhen.php" style="margin-bottom: 330px;">Межень</a>
-      <!-- <a href="/dictionary/m/mestnye-predmety.php">Местные предметы</a> -->
+      <a href="/dictionary/m/mezhen.php">Межень</a>
+      <a href="/dictionary/m/mestnye-predmety.php" style="margin-bottom: 320px;">Местные предметы</a>
    </div>
 
    <?php

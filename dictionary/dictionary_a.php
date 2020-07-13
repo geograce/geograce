@@ -42,9 +42,9 @@
       <p class="title_dictionary">А</p>
       <a href="/dictionary/a/aberraciya-astronomicheskaya.php">Аберрация астрономическая</a>
       <a href="/dictionary/a/abris.php">Абрис</a>
-      <a href="/dictionary/a/additamenty.php"  style="margin-bottom: 330px;">Аддитаменты</a>
+      <a href="/dictionary/a/additamenty.php">Аддитаменты</a>
       <!-- <a href="/dictionary/a/azimut-astronomicheskij.php">Азимут астрономический (истинный)</a> -->
-      <!-- <a href="/dictionary/a/azimut-geodezicheskij.php">Азимут геодезический</a> -->
+      <a href="/dictionary/a/azimut-geodezicheskij.php" style="margin-bottom: 320px;">Азимут геодезический</a>
       <!-- <a href="/dictionary/a/azimut-magnitnyj.php">Азимут магнитный</a> -->
       <!-- <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a> -->
       <!-- <a href="/dictionary/a/algoritm.php">Алгоритм</a> -->

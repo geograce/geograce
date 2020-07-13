@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Ортофотопроектор предложенный Ф. В. Дробышевым прибор, применяемый совместно с им же предложенным стереографом, позволяющий получать по плановым аэрофотоснимкам фотографическое изображение местности в ортогональной проекции ортофотоснимок.">
+      content="Ортофотопроектор прибор, применяемый совместно с стереографом, позволяющий получать по плановым аэрофотоснимкам фотографическое изображение местности в ортогональной проекции ортофотоснимок. Особенностью получения ортофотоснимка на ортофотопроекторе является то...">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Ортофотопроектор</title>
+   <title>Ортофотопроектор - это... Что такое ортофотопроектор?</title>
 </head>
 
 <body>
@@ -41,11 +41,15 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Ортофотопроектор</h1>
-      <p class="txt_description_general"><strong>Ортофотопроектор</strong> &ndash; предложенный Ф. В. Дробышевым
-         прибор, применяемый совместно с им же предложенным стереографом, позволяющий получать по плановым
-         аэрофотоснимкам фотографическое изображение местности в ортогональной проекции &ndash; ортофотоснимок.
-         Особенностью получения ортофотоснимка на ортофотопроекторе является то, что при этом не требуется
-         изготовлять уменьшенных диапозитивов с аэрофотоснимков.</p>
+      <p class="txt_description_general"><strong>ОРТОФОТОПРОЕКТОР</strong> &ndash; предложенный Ф. В. Дробышевым прибор,
+         применяемый совместно с им же предложенным стереографом, который позволяет получать по плановым аэрофотоснимкам
+         фотографическое изображение местности в ортогональной проекции &ndash; ортофотоснимок. Особенностью получения
+         ортофотоснимка на ортофотопроекторе является то, что при этом не требуется изготовлять уменьшенных диапозитивов
+         с аэрофотоснимков.</p>
+      <figure class="figure_img_description_general" style="max-width: 500px;">
+         <img class="img_description_general" src="/img/dictionary/o/ortofotoproektor.webp" alt="Ортофотопроектор">
+         <figcaption class="figcaption_general">Рис. 1 Ортофотопроектор</figcaption>
+      </figure>
    </div>
 
    <?php

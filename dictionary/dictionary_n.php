@@ -42,8 +42,8 @@
       <p class="title_dictionary">Н</p>
       <a href="/dictionary/n/naklonenie-magnitnoj-strelki.php">Наклонение магнитной стрелки</a>
       <a href="/dictionary/n/naselennye-punkty.php">Населенные пункты</a>
-      <a href="/dictionary/n/nachalnoe-napravlenie.php"  style="margin-bottom: 330px;">Начальное направление</a>
-      <!-- <a href="/dictionary/n/normalnaya-zemlya.php">Нормальная земля</a> -->
+      <a href="/dictionary/n/nachalnoe-napravlenie.php">Начальное направление</a>
+      <a href="/dictionary/n/normalnaya-zemlya.php" style="margin-bottom: 320px;">Нормальная земля</a>
    </div>
 
    <?php

@@ -557,6 +557,9 @@
   max-width: 550px;
   margin: 0 auto;
 }
+.description_general .slider_item img {
+  width: 100%;
+}
 .description_general .slick-list {
   overflow: hidden;
 }

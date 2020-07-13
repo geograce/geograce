@@ -41,8 +41,8 @@
    <div class="box_dictionary_general">
       <p class="title_dictionary">П</p>
       <a href="/dictionary/p/pantograf.php">Пантограф</a>
-      <a href="/dictionary/p/peredacha-geograficheskikh-nazvanij.php" style="margin-bottom: 340px;">Передача географических названий</a>
-      <!-- <a href="/dictionary/p/perekhodnaya-tochka.php">Переходная точка</a> -->
+      <a href="/dictionary/p/peredacha-geograficheskikh-nazvanij.php">Передача географических названий</a>
+      <a href="/dictionary/p/perekhodnaya-tochka.php" style="margin-bottom: 330px;">Переходная точка</a>
       <!-- <a href="/dictionary/p/pogreshnosti.php">Погрешности</a> -->
    </div>
 

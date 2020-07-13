@@ -4,13 +4,14 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Редактирование карт разработка содержания и рациональных методов создания карты.">
+   <meta name="description"
+      content="Редактирование карт разработка содержания и рациональных методов создания карты. Редактирование карт включает: изучение картографируемой территории в географическом отношении">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Редактирование карт</title>
+   <title>Редактирование карт - это... Что означает редактирование карт?</title>
 </head>
 
 <body>
@@ -40,7 +41,7 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Редактирование карт</h1>
-      <p class="txt_description_general"><strong>Редактирование карт</strong> &ndash; разработка содержания и
+      <p class="txt_description_general"><strong>РЕДАКТИРОВАНИЕ КАРТ</strong> &ndash; разработка содержания и
          рациональных методов создания карты. Редактирование карт включает: изучение картографируемой территории в
          географическом отношении и выявление ее типичных особенностей, подлежащих отображению на карте; сбор
          картографических материалов, их изучение и составление рекомендаций по использованию; разработка

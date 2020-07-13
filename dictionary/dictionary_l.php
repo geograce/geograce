@@ -42,8 +42,8 @@
       <p class="title_dictionary">Л</p>
       <a href="/dictionary/l/lazernaya-lokaciya-luny.php">Лазерная локация Луны</a>
       <a href="/dictionary/l/limb.php">Лимб</a>
-      <a href="/dictionary/l/logarifmicheskaya-linejka.php" style="margin-bottom: 330px;">Логарифмическая линейка</a>
-      <!-- <a href="/dictionary/l/lichnaya-raznost.php">Личная разность</a> -->
+      <a href="/dictionary/l/logarifmicheskaya-linejka.php">Логарифмическая линейка</a>
+      <a href="/dictionary/l/lichnaya-raznost.php" style="margin-bottom: 320px;">Личная разность</a>
    </div>
 
    <?php

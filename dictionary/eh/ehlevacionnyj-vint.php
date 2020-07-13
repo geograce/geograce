@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Элевационный винт винт, который позволяет изменять в небольших пределах наклон зрительной трубы нивелира. Элевационный винт имеют глухие нивелиры НБ, ПА">
+      content="Элевационный винт винт, который позволяет изменять в небольших пределах наклон зрительной трубы нивелира. Элевационный винт имеют глухие нивелиры НБ, ПА.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Элевационный винт</title>
+   <title>Элевационный винт - это... Для чего предназначен элевационный винт?</title>
 </head>
 
 <body>

@@ -12,7 +12,7 @@
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
-   <title>Азимут геодезический</title>
+   <title>Азимут геодезический - это... Определение геодезического азимута.</title>
 </head>
 
 <body>
@@ -42,12 +42,11 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Азимут геодезический</h1>
-      <p class="txt_description_general"><strong>Азимут геодезический</strong> &ndash; двугранный угол, образованный
-         плоскостью геодезического меридиана точки наблюдения и плоскостью, проходящей через нормаль к поверхности
-         референц&ndash;эллипсоида в точке наблюдения. Данное направление отсчитывается от северного направления
-         меридиана по ходу часовой стрелки от 0 до 360&deg;. Азимут геодезический может быть определен двумя способами:
-      </p>
-      <br>
+      <p class="txt_description_general"><strong>АЗИМУТ ГЕОДЕЗИЧЕСКИЙ</strong> &ndash; это
+         двугранный угол, образованный плоскостью геодезического меридиана точки наблюдения и плоскостью, которая
+         проходит через нормаль к поверхности референц&ndash;эллипсоида в точке наблюдения. Это направление
+         отсчитывается от северного направления меридиана по ходу часовой стрелки в интервале от 0 до 360&deg;.
+         Геодезический азимут может быть определен двумя способами:</p>
       <p class="list_description_general" style="padding-bottom: 0;">1. Определение геодезического азимута
          непосредственно из наблюдений звезд в меридиане.</p>
       <p class=" list_description_general">2. Определение геодезического азимута из многократных наблюдений ярких звезд

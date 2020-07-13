@@ -42,8 +42,8 @@
       <p class="title_dictionary">И</p>
       <a href="/dictionary/i/izdanie-kart.php">Издание карт</a>
       <a href="/dictionary/i/izoanomaly.php">Изоаномалы</a>
-      <a href="/dictionary/i/izobary.php" style="margin-bottom: 330px;">Изобары</a>
-      <!-- <a href="/dictionary/i/izobaty.php">Изобаты</a> -->
+      <a href="/dictionary/i/izobary.php">Изобары</a>
+      <a href="/dictionary/i/izobaty.php" style="margin-bottom: 320px;">Изобаты</a>
       <!-- <a href="/dictionary/i/izogony.php">Изогоны</a> -->
    </div>
 

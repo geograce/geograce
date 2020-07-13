@@ -23,6 +23,10 @@
   <loc>https://www.geograce.ru/dictionary/a/additamenty.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/a/azimut-geodezicheskij.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== Б =====-->
 <url>
@@ -65,6 +69,10 @@
   <loc>https://www.geograce.ru/dictionary/g/geodezicheskaya-liniya.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/g/geodezicheskaya-set.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== Д =====-->
 <url>
@@ -103,6 +111,10 @@
   <loc>https://www.geograce.ru/dictionary/i/izobary.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/i/izobaty.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== К =====-->
 <url>
@@ -115,6 +127,10 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/k/kartografiya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/k/kartografo-geodezicheskaya-sluzhba-sssr.php</loc>
   <changefreq>daily</changefreq>
 </url>
 
@@ -131,6 +147,10 @@
   <loc>https://www.geograce.ru/dictionary/l/logarifmicheskaya-linejka.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/l/lichnaya-raznost.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== М =====-->
 <url>
@@ -143,6 +163,10 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/m/mezhen.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/m/mestnye-predmety.php</loc>
   <changefreq>daily</changefreq>
 </url>
 
@@ -159,6 +183,10 @@
   <loc>https://www.geograce.ru/dictionary/n/nachalnoe-napravlenie.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/n/normalnaya-zemlya.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== О =====-->
 <url>
@@ -167,6 +195,10 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/o/orientirovanie-po-karte.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/o/ortofotoproektor.php</loc>
   <changefreq>daily</changefreq>
 </url>
 
@@ -179,6 +211,10 @@
   <loc>https://www.geograce.ru/dictionary/p/peredacha-geograficheskikh-nazvanij.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/p/perekhodnaya-tochka.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== Р =====-->
 <url>
@@ -189,6 +225,10 @@
   <loc>https://www.geograce.ru/dictionary/r/radiosignaly-tochnogo-vremeni.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/r/redaktirovanie-kart.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== С =====-->
 <url>
@@ -197,6 +237,10 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/s/sklonenie-svetila.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/s/statoskop.php</loc>
   <changefreq>daily</changefreq>
 </url>
 
@@ -267,6 +311,10 @@
   <loc>https://www.geograce.ru/dictionary/ch/chebysheva-proekciya.php</loc>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/ch/chertezh.php</loc>
+  <changefreq>daily</changefreq>
+</url>
 
 <!--===== Э =====-->
 <url>
@@ -279,6 +327,10 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/eh/ehkker.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/eh/ehlevacionnyj-vint.php</loc>
   <changefreq>daily</changefreq>
 </url>
 

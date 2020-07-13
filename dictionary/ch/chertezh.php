@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Чертеж изображение объектов, которые содержат: изображение зданий, его частей, строительных конструкций и изделий,">
+      content="Чертеж изображение объектов, которые содержат: изображение зданий, его частей, строительных конструкций и изделий.  Чертеж выполняется с соблюдением ряда условных обозначений и правил.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Чертеж</title>
+   <title>Чертеж - это... Что такое чертеж?</title>
 </head>
 
 <body>
@@ -40,12 +40,25 @@
    ?>
    <div class="description_general">
       <h1 class="h1_description_general">Чертеж</h1>
-      <p class="txt_description_general"><strong>Чертеж</strong> &ndash; изображение объектов, которые содержат:
+      <p class="txt_description_general"><strong>ЧЕРТЕЖ</strong> &ndash; изображение объектов, которые содержат:
          изображение зданий, его частей, строительных конструкций и изделий, также содержит информацию о рельефе,
          растительности, дорогах и различные сведения о коммуникациях. Чертеж выполняется с соблюдением ряда условных
-         обозначений и правил, которые регламентируются различными ГОСТами, СНиП, и др. Основные требования к проектной
+         обозначений и правил, которые регламентируются различными ГОСТами, СНиП, и т.д. Главные требования к проектной
          и рабочей документации для строительства объектов различного назначения устанавливаются ГОСТ Р
-         21.1101&ndash;2013 Система проектной документации для строительства (СПДС).</p>
+         21.1101&ndash;2013 Система проектной документации для строительства (СПДС). На слайдере показаны несколько
+         примеров чертежей.</p>
+      <!--Слайдер==========================-->
+      <div class="slider">
+         <div class="slider_item">
+            <img src="/img/dictionary/ch/chertezh-1.svg" alt="Чертеж фундамента">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/ch/chertezh-2.webp" alt="Чертеж изделия">
+         </div>
+         <div class="slider_item">
+            <img src="/img/dictionary/ch/chertezh-3.webp" alt="Чертеж фасада">
+         </div>
+      </div>
       <br>
       <p class="txt_description_general">Чтобы выполнить чертеж сконструированного объекта, нужно мысленно вообразить
          форму, размеры и положение объекта в пространстве. Инженеру любого профиля очень важно умение мыслить
@@ -60,6 +73,9 @@
    ?>
 
    <script src="/js/mobile_menu_general.js"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+   <script type="text/javascript" src="/js/slajder.js"></script>
 </body>
 
 </html>

@@ -41,8 +41,8 @@
       <p class="title_dictionary">Г</p>
       <a href="/dictionary/g/geliotrop.php">Гелиотроп</a>
       <a href="/dictionary/g/generalizaciya-kartograficheskaya.php">Генерализация картографическая</a>
-      <a href="/dictionary/g/geodezicheskaya-liniya.php" style="margin-bottom: 330px;">Геодезическая линия</a>
-      <!-- <a href="/dictionary/g/geodezicheskaya-set.php">Геодезическая сеть</a> -->
+      <a href="/dictionary/g/geodezicheskaya-liniya.php">Геодезическая линия</a>
+      <a href="/dictionary/g/geodezicheskaya-set.php" style="margin-bottom: 320px;">Геодезическая сеть</a>
    </div>
 
    <?php
