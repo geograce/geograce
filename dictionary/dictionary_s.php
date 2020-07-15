@@ -42,8 +42,8 @@
       <p class="title_dictionary">С</p>
       <a href="/dictionary/s/sklonenie-magnitnoj-strelki.php">Склонение магнитной стрелки</a>
       <a href="/dictionary/s/sklonenie-svetila.php">Склонение светила</a>
-      <a href="/dictionary/s/statoskop.php" style="margin-bottom: 330px;">Статоскоп</a>
-      <!-- <a href="/dictionary/s/stereograf.php">Стереограф</a> -->
+      <a href="/dictionary/s/statoskop.php">Статоскоп</a>
+      <a href="/dictionary/s/stereograf.php" style="margin-bottom: 320px;">Стереограф</a>
    </div>
 
    <?php

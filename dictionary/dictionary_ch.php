@@ -43,8 +43,8 @@
       <a href="/dictionary/ch/chasovoj-ugol.php">Часовой угол</a>
       <a href="/dictionary/ch/chasovaya-mera-uglov.php">Часовая мера углов</a>
       <a href="/dictionary/ch/chebysheva-proekciya.php">Чебышева проекция</a>
-      <a href="/dictionary/ch/chertezh.php" style="margin-bottom: 320px;">Чертеж</a>
-      <!-- <a href="/dictionary/ch/chertezhnyj-pribor.php">Чертежный прибор</a> -->
+      <a href="/dictionary/ch/chertezh.php">Чертеж</a>
+      <a href="/dictionary/ch/chertezhnyj-instrument.php" style="margin-bottom: 310px;">Чертежный инструмент</a>
    </div>
 
    <?php

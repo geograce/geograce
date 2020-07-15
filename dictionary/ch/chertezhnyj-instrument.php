@@ -5,14 +5,14 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Чертежный прибор инструмент, который предназначен для выполнения чертежно-графических работ.">
+      content="Чертежный прибор инструмент, который предназначен для выполнения чертежно-графических работ. Чертежных инструментов достаточно много">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
-   <title>Чертежный прибор</title>
+   <title>Чертежный инструмент - это... Предназначение чертежных инструментов.</title>
 </head>
 
 <body>
@@ -41,11 +41,10 @@
    ?>
 
    <div class="description_general">
-      <h1 class="h1_description_general">Чертежный прибор</h1>
-      <p class="txt_description_general"><strong>Чертежный прибор</strong> &ndash; инструмент, который предназначен для
-         выполнения чертежно-графических работ. Чертежных приборов достаточно много, например: чертежная доска,
-         рейсшина, линейка Дробышева, лекало и др.</p>
-      <br>
+      <h1 class="h1_description_general">Чертежный инструмент</h1>
+      <p class="txt_description_general"><strong>ЧЕРТЕЖНЫЙ ИНСТРУМЕНТ</strong> &ndash; это инструмент, который
+         предназначен для выполнения чертежно&ndash;графических работ. Чертежных инструментов достаточно много,
+         например: чертежная доска, рейсшина, линейка Дробышева, лекало и др.</p>
       <!--Слайдер==========================-->
       <div class="slider">
          <div class="slider_item">

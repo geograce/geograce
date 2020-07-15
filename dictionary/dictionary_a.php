@@ -44,8 +44,8 @@
       <a href="/dictionary/a/abris.php">Абрис</a>
       <a href="/dictionary/a/additamenty.php">Аддитаменты</a>
       <!-- <a href="/dictionary/a/azimut-astronomicheskij.php">Азимут астрономический (истинный)</a> -->
-      <a href="/dictionary/a/azimut-geodezicheskij.php" style="margin-bottom: 320px;">Азимут геодезический</a>
-      <!-- <a href="/dictionary/a/azimut-magnitnyj.php">Азимут магнитный</a> -->
+      <a href="/dictionary/a/azimut-geodezicheskij.php">Азимут геодезический</a>
+      <a href="/dictionary/a/azimut-magnitnyj.php" style="margin-bottom: 310px;">Азимут магнитный</a>
       <!-- <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a> -->
       <!-- <a href="/dictionary/a/algoritm.php">Алгоритм</a> -->
       <!-- <a href="/dictionary/a/almukantarat.php">Альмукантарат</a> -->

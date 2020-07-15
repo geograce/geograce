@@ -43,8 +43,8 @@
       <a href="/dictionary/k/kartogramma.php">Картограмма</a>
       <a href="/dictionary/k/kartograficheskaya-setka.php">Картографическая сетка</a>
       <a href="/dictionary/k/kartografiya.php">Картография</a>
-      <a href="/dictionary/k/kartografo-geodezicheskaya-sluzhba-sssr.php" style="margin-bottom: 320px;">Картографо&ndash;геодезическая служба СССР</a>
-      <!-- <a href="/dictionary/k/kartometriya.php">Картометрия</a> -->
+      <a href="/dictionary/k/kartografo-geodezicheskaya-sluzhba-sssr.php">Картографо&ndash;геодезическая служба СССР</a>
+      <a href="/dictionary/k/kartometriya.php" style="margin-bottom: 310px;">Картометрия</a>
    </div>
 
    <?php

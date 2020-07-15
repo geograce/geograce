@@ -11,7 +11,7 @@
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Изогоны</title>
+   <title>Изогоны - это... Что такое изогоны на картах?</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Изогоны</h1>
-      <p class="txt_description_general"><strong>Изогоны</strong> &ndash; линии на карте, соединяющие точки с равным
+      <p class="txt_description_general"><strong>ИЗОГОНЫ</strong> &ndash; линии на карте, соединяющие точки с равным
          магнитным склонением. Изогоны наносятся на топографические карты масштабов 1:500000 и 1:1000000,
          используемые авиацией, а также на специальные авиационные и морские навигационные карты. Наряду с изогонами
          на этих же картах показываются районы магнитных аномалий.</p>

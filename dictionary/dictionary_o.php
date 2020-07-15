@@ -44,8 +44,8 @@
       <!-- <a href="/dictionary/o/opticheskij-dalnomer.php">Оптический дальномер</a> -->
       <!-- <a href="/dictionary/o/orientirovanie-geodezicheskoe.php">Ориентирование геодезическое</a> -->
       <a href="/dictionary/o/orientirovanie-po-karte.php">Ориентирование по карте</a>
-      <a href="/dictionary/o/ortofotoproektor.php" style="margin-bottom: 330px;">Ортофотопроектор</a>
-      <!-- <a href="/dictionary/o/ortofotosnimok.php">Ортофотоснимок</a> -->
+      <a href="/dictionary/o/ortofotoproektor.php">Ортофотопроектор</a>
+      <a href="/dictionary/o/ortofotosnimok.php" style="margin-bottom: 320px;">Ортофотоснимок</a>
    </div>
 
    <?php

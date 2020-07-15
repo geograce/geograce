@@ -58,14 +58,13 @@
          <p class="txt_date_timeline_about_us  item_about_us_10">В этом месяце мы запустили блог, в котором будут
             публиковаться статьи о геодезии и маркшейдерском деле и других инженерных специальностях.</p>
 
-         <p class="date_timeline_about_us item_about_us_11">09.2020 &ndash;</p>
+         <p class="date_timeline_about_us item_about_us_11">07.2020 &ndash;</p>
          <div class="circle_timeline_about_us item_about_us_12">
             <div class="circle_2_timeline_about_us"></div>
          </div>
          <p class="title_date_timeline_about_us item_about_us_13">Планируемое обновление</p>
          <div class="item_about_us_14"></div>
-         <p class="txt_date_timeline_about_us  item_about_us_15">Планируется ввести каталог геодезического оборудование
-            с инструкциями к ним.</p>
+         <p class="txt_date_timeline_about_us  item_about_us_15">Планируется ввести тесты знаний по геодезии.</p>
       </div>
    </div>
 
