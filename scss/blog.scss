@@ -1,9 +1,7 @@
 .home_blog{
    max-width: 1200px;
    margin: 0 auto;
-   // border: 3px solid rgb(46, 95, 255);
    font-family: 'IBM Plex Sans', sans-serif;
-   // padding: 0 20px;
    .h1_home_blog{
       text-align: center;
       font-weight: 300;
@@ -13,7 +11,6 @@
    }
    .box_new_blog{
       width: 100%;
-      // border: 1px solid violet;
       height: 300px;
       display: flex;
       border-top: 1px solid gray;
@@ -54,6 +51,10 @@
          background: url(/img/blog/chto-znachit-chislo-pi/chislo-pi.svg) center no-repeat;
          background-size: 180px;
       }
+      .img2_new_blog_home{
+         background: url(/img/blog/vychislenie-storon-treugolnikov/header-vychislenie-storon-treugolnikov.svg) center no-repeat;
+         background-size: cover;
+      }
    }
 }
 
@@ -61,7 +62,6 @@
 .main_box_article{
    max-width: 1200px;
    margin: 0 auto;
-   // border: 1px solid firebrick;
    font-family: 'IBM Plex Sans', sans-serif;
    padding: 0 20px;
    .h1_article{
@@ -75,10 +75,18 @@
       font-size: 21px;
       text-align: justify;
       max-width: 1000px;
-      // border: 1px solid goldenrod;
       margin: 0 auto;
+      margin-bottom: 20px;
       line-height: 1.5;
       color: rgb(8, 8, 8);
+   }
+   .link_article{
+      color: blue;
+      text-decoration: none;
+      font-size: 21px;
+      max-width: 1000px;
+      display: block;
+      margin: 0 auto;
    }
    .figure_img_article{
       margin: 0 auto;
@@ -89,5 +97,58 @@
          font-size: 18px;
          color: rgb(54, 54, 54);
       }
+   }
+   //Вычисление сторон треугольников
+   .header_table_vychislenie_treugolnikov{
+      max-width: 1000px;
+      margin: 0 auto;
+      height: 45px;
+      border-bottom: 2px solid rgb(0, 0, 0);
+      // border: 1px solid firebrick;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      text-align: center;
+      font-weight: 500;
+   }
+   .data_table_vychislenie_treugolnikov{
+      max-width: 1000px;
+      margin: 0 auto;
+      height: 40px;
+      // border: 1px solid seagreen;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      text-align: center;
+   }
+   .length_number_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 60px;
+      font-weight: 500;
+   }
+   .length_name_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 100px;
+      text-align: left;
+   }
+   .length_dimension_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 110px;
+   }
+   .length_w3_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 65px;
+   }
+   .length_fixes_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 130px;
+   }
+   .length_sinus_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 130px;
+   }
+   .length_side_vychislenie_treugolnikov{
+      // border: 1px solid red;
+      width: 100px;
    }
 }

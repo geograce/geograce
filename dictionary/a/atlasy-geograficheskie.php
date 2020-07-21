@@ -11,7 +11,7 @@
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
-   <title>Географический атлас</title>
+   <title>Географический атлас - это... Что такое географический атлас?</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
 
    <div class="description_general">
       <h1 class="h1_description_general">Атласы географические</h1>
-      <p class="txt_description_general"><strong>Атласы географические</strong> &ndash; картографические произведения,
+      <p class="txt_description_general"><strong>АТЛАСЫ ГЕОГРАФИЧЕСКИЕ</strong> &ndash; картографические произведения,
          представляющие собой систематические собрания карт, характеризующихся внутренним единством, взаимосвязью,
          взаимодополняемостью и единообразием оформления. Современные географические атласы весьма разнообразны. По
          содержанию различают атласы общегеографические, тематические и комплексные. По назначению: учебные,

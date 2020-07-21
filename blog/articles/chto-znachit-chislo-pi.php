@@ -46,14 +46,14 @@
          могут далеко не все. Кстати, если вы хотите запомнить большее количество знаков после запятой, то есть
          замечательное стихотворение:</p>
       <br>
-      <p class="txt_article" style="text-align: center;">Чтобы нам не ошибаться,</p>
-      <p class="txt_article" style="text-align: center;">Надо правильно прочесть:</p>
-      <p class="txt_article" style="text-align: center;">Три, четырнадцать, пятнадцать,</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">Чтобы нам не ошибаться,</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">Надо правильно прочесть:</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">Три, четырнадцать, пятнадцать,</p>
       <p class="txt_article" style="text-align: center;">Девяносто два и шесть.</p>
       <br>
-      <p class="txt_article" style="text-align: center;">Надо только постараться</p>
-      <p class="txt_article" style="text-align: center;">И запомнить всё как есть:</p>
-      <p class="txt_article" style="text-align: center;">Три, четырнадцать, пятнадцать,</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">Надо только постараться</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">И запомнить всё как есть:</p>
+      <p class="txt_article" style="text-align: center; margin-bottom: 0;">Три, четырнадцать, пятнадцать,</p>
       <p class="txt_article" style="text-align: center;">Девяносто два и шесть.</p>
       <br>
       <p class="txt_article">Часть людей знают или догадываются, что число Пи связано с окружностью. Там, где есть

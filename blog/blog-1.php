@@ -40,6 +40,18 @@
 
    <div class="home_blog">
       <h1 class="h1_home_blog">Статьи о геодезии</h1>
+      <!--Статья 2============================-->
+      <div class="box_new_blog">
+         <div class="img2_new_blog_home box_img_new_blog"></div>
+         <div class="txt_new_blog">
+            <p class="date_new_blog">21/07/2020</p>
+            <a href="articles/vychislenie-storon-treugolnikov.php">Вычисление сторон треугольников</a>
+            <p class="txt_home_new_blog">При развитии аналитических сетей, в которых измеряют только углы, одним из
+               процессов вычислительных работ является вычисление сторон треугольников сети (сокращенно этот процесс
+               называют решением треугольников).Решение треугольников проводят как по таблицам натуральных значений
+               тригонометрических функций, так и по таблицам логарифмов.</p>
+         </div>
+      </div>
       <!--Статья 1============================-->
       <div class="box_new_blog" style="margin-bottom: 150px;">
          <div class="img1_new_blog_home box_img_new_blog"></div>

@@ -66,7 +66,7 @@
    </div>
 
    <?php
-      "../../module_php/footer_general.php";
+      require "../../module_php/footer_general.php";
    ?>
 
    <script src="/js/mobile_menu_general.js"></script>

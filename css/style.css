@@ -270,6 +270,7 @@
   padding: 0 20px;
   font-family: "Ubuntu", sans-serif;
   border-bottom: 1px solid gray;
+  position: relative;
 }
 .box_menu_general .box_logo_general {
   display: flex;
@@ -342,6 +343,46 @@
   right: 50px;
   font-size: 30px;
   padding: 5px;
+}
+.box_menu_general .menu_alphabet_general {
+  display: none;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(6, 50px);
+  grid-auto-rows: 50px;
+  grid-gap: 20px;
+  padding-left: 20px;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.95);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 3;
+}
+.box_menu_general .menu_alphabet_general a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 20px;
+  margin-bottom: 7px;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  border: 1px solid #919191;
+}
+.box_menu_general .menu_alphabet_general a:hover {
+  color: #f06c00;
+}
+.box_menu_general .menu_alphabet_general .close_alphabet_menu_general {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  font-size: 30px;
+  padding: 5px;
+  border: none;
+  color: white;
 }
 
 .footer_general {
@@ -519,6 +560,10 @@
   background: url(/img/blog/chto-znachit-chislo-pi/chislo-pi.svg) center no-repeat;
   background-size: 180px;
 }
+.home_blog .box_new_blog .img2_new_blog_home {
+  background: url(/img/blog/vychislenie-storon-treugolnikov/header-vychislenie-storon-treugolnikov.svg) center no-repeat;
+  background-size: cover;
+}
 
 .main_box_article {
   max-width: 1200px;
@@ -538,8 +583,17 @@
   text-align: justify;
   max-width: 1000px;
   margin: 0 auto;
+  margin-bottom: 20px;
   line-height: 1.5;
   color: #080808;
+}
+.main_box_article .link_article {
+  color: blue;
+  text-decoration: none;
+  font-size: 21px;
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
 }
 .main_box_article .figure_img_article {
   margin: 0 auto;
@@ -550,6 +604,49 @@
   font-style: italic;
   font-size: 18px;
   color: #363636;
+}
+.main_box_article .header_table_vychislenie_treugolnikov {
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 45px;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+}
+.main_box_article .data_table_vychislenie_treugolnikov {
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.main_box_article .length_number_vychislenie_treugolnikov {
+  width: 60px;
+  font-weight: 500;
+}
+.main_box_article .length_name_vychislenie_treugolnikov {
+  width: 100px;
+  text-align: left;
+}
+.main_box_article .length_dimension_vychislenie_treugolnikov {
+  width: 110px;
+}
+.main_box_article .length_w3_vychislenie_treugolnikov {
+  width: 65px;
+}
+.main_box_article .length_fixes_vychislenie_treugolnikov {
+  width: 130px;
+}
+.main_box_article .length_sinus_vychislenie_treugolnikov {
+  width: 130px;
+}
+.main_box_article .length_side_vychislenie_treugolnikov {
+  width: 100px;
 }
 
 .description_general .slider {
@@ -657,9 +754,82 @@
 .about_us .box_timeline_about_us .item_about_us_9 {
   grid-column: 1/3;
 }
-.about_us .box_timeline_about_us .item_about_us_12 {
-  border-style: dashed;
-}
 .about_us .box_timeline_about_us .item_about_us_14 {
   grid-column: 1/3;
+}
+.about_us .box_timeline_about_us .item_about_us_17 {
+  border-style: dashed;
+}
+.about_us .box_timeline_about_us .item_about_us_19 {
+  grid-column: 1/3;
+}
+
+.general_test {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 600px;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+.general_test .h1_general_test {
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.general_test .box_menu_test {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 200px;
+  grid-gap: 30px;
+}
+.general_test .box_menu_test .item_menu {
+  display: flex;
+}
+.general_test .box_menu_test .item_menu .link_item_menu {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.general_test .box_menu_test .item_menu .link_item_menu .img_item_menu_1 {
+  height: 100%;
+  width: 250px;
+  background: url(/img/test/menu-test-geodeziya.svg) center no-repeat;
+}
+.general_test .box_menu_test .item_menu .link_item_menu .img_item_menu_2 {
+  height: 100%;
+  width: 250px;
+  background: url(/img/test/menu-test-topografiya.svg) center no-repeat;
+}
+.general_test .box_menu_test .item_menu .link_item_menu .txt_item_menu {
+  max-width: 300px;
+  margin-left: 10px;
+}
+.general_test .box_menu_test .item_menu .link_item_menu .txt_item_menu .h2_general_test {
+  color: black;
+  margin-bottom: 5px;
+}
+.general_test .box_menu_test .item_menu .link_item_menu .txt_item_menu .description_item_menu {
+  color: #8f8f8f;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+.general_test .box_menu_test .item_menu:hover {
+  box-shadow: 2px 2px 4px #7c7c7c;
+  transition-duration: 0.3s;
+}
+
+.box_test {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 900px;
+}
+.box_test iframe {
+  display: block;
+  margin: 0 auto;
+  height: 100%;
 }

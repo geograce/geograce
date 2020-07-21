@@ -45,19 +45,19 @@
       <a href="/dictionary/a/additamenty.php">Аддитаменты</a>
       <!-- <a href="/dictionary/a/azimut-astronomicheskij.php">Азимут астрономический (истинный)</a> -->
       <a href="/dictionary/a/azimut-geodezicheskij.php">Азимут геодезический</a>
-      <a href="/dictionary/a/azimut-magnitnyj.php" style="margin-bottom: 310px;">Азимут магнитный</a>
-      <!-- <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a> -->
-      <!-- <a href="/dictionary/a/algoritm.php">Алгоритм</a> -->
-      <!-- <a href="/dictionary/a/almukantarat.php">Альмукантарат</a> -->
-      <!-- <a href="/dictionary/a/anaglifov-cvetnykh-metod.php">Анаглифов цветных метод</a> -->
-      <!-- <a href="/dictionary/a/anomaliya-sily-tyazhesti.php">Аномалия силы тяжести</a> -->
-      <!-- <a href="/dictionary/a/atlasy-geograficheskie.php">Атласы географические</a> -->
-      <!-- <a href="/dictionary/a/aehronivelirovanie.php">Аэронивелирование</a> -->
-      <!-- <a href="/dictionary/a/aehrofotoapparat.php">Аэрофотоаппарат</a> -->
-      <!-- <a href="/dictionary/a/aehrofotosnimok.php">Аэрофотоснимок</a> -->
-      <!-- <a href="/dictionary/a/aehrofotosemka.php">Аэрофотосъемка</a> -->
-      <!-- <a href="/dictionary/a/aehrofototopograficheskaya-semka.php">Аэрофототопографическая съемка</a> -->
-      <!-- <a href="/dictionary/a/aehrofototopografiya.php">Аэрофототопография</a> -->
+      <a href="/dictionary/a/azimut-magnitnyj.php">Азимут магнитный</a>
+      <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a>
+      <a href="/dictionary/a/algoritm.php">Алгоритм</a>
+      <a href="/dictionary/a/almukantarat.php">Альмукантарат</a>
+      <a href="/dictionary/a/anaglifov-cvetnykh-metod.php">Анаглифов цветных метод</a>
+      <a href="/dictionary/a/anomaliya-sily-tyazhesti.php">Аномалия силы тяжести</a>
+      <a href="/dictionary/a/atlasy-geograficheskie.php">Атласы географические</a>
+      <a href="/dictionary/a/aehronivelirovanie.php">Аэронивелирование</a>
+      <a href="/dictionary/a/aehrofotoapparat.php">Аэрофотоаппарат</a>
+      <a href="/dictionary/a/aehrofotosnimok.php">Аэрофотоснимок</a>
+      <a href="/dictionary/a/aehrofotosemka.php">Аэрофотосъемка</a>
+      <a href="/dictionary/a/aehrofototopograficheskaya-semka.php">Аэрофототопографическая съемка</a>
+      <a href="/dictionary/a/aehrofototopografiya.php">Аэрофототопография</a>
    </div>
 
    <?php

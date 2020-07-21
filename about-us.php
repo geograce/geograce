@@ -44,7 +44,7 @@
          <div class="circle_timeline_about_us item_about_us_2">
             <div class="circle_2_timeline_about_us"></div>
          </div>
-         <p class="title_date_timeline_about_us item_about_us_3">Запуск сайта www.geograce.ru</p>
+         <p class="title_date_timeline_about_us item_about_us_3">Запуск сайта</p>
          <div class="line_timeline_about_us item_about_us_4"></div>
          <p class="txt_date_timeline_about_us  item_about_us_5">Был реализован справочник в помощь геодезистам,
             маркшейдерам и другим инженерным специальностям. Справочник со временем пополняется новыми материалами.</p>
@@ -62,9 +62,17 @@
          <div class="circle_timeline_about_us item_about_us_12">
             <div class="circle_2_timeline_about_us"></div>
          </div>
-         <p class="title_date_timeline_about_us item_about_us_13">Планируемое обновление</p>
-         <div class="item_about_us_14"></div>
-         <p class="txt_date_timeline_about_us  item_about_us_15">Планируется ввести тесты знаний по геодезии.</p>
+         <p class="title_date_timeline_about_us item_about_us_13">Реализация тестов</p>
+         <div class="line_timeline_about_us item_about_us_14"></div>
+         <p class="txt_date_timeline_about_us  item_about_us_15">Реализация тестирования знаний в области геодезии.</p>
+         
+         <p class="date_timeline_about_us item_about_us_16">09.2020 &ndash;</p>
+         <div class="circle_timeline_about_us item_about_us_17">
+            <div class="circle_2_timeline_about_us"></div>
+         </div>
+         <p class="title_date_timeline_about_us item_about_us_18">Каталог приборов</p>
+         <div class="item_about_us_19"></div>
+         <p class="txt_date_timeline_about_us  item_about_us_20">Каталог геодезического оборудования с инструкциями</p>
       </div>
    </div>
 

@@ -1,0 +1,77 @@
+// МЕНЮ ТЕСТОВ
+.general_test{
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 20px;
+   // border: 2px solid rgb(204, 169, 103);
+   height: 600px;
+   font-family: 'IBM Plex Sans', sans-serif;
+   .h1_general_test{
+      font-weight: 300;
+      text-align: center;
+      margin-bottom: 20px;
+      margin-top: 40px;
+   }
+   .box_menu_test{
+      width: 100%;
+      // border: 1px solid hotpink;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 200px;
+      grid-gap: 30px;
+      .item_menu{
+         // border: 1px solid thistle;
+         display: flex;
+         .link_item_menu{
+            display: flex;
+            // border: 2px dashed orange;
+            align-items: center;
+            width: 100%;
+            padding: 0 10px;
+            text-decoration: none;
+            .img_item_menu_1{
+               height: 100%;
+               width: 250px;
+               background: url(/img/test/menu-test-geodeziya.svg) center no-repeat;
+            }
+            .img_item_menu_2{
+               height: 100%;
+               width: 250px;
+               background: url(/img/test/menu-test-topografiya.svg) center no-repeat;
+            }
+            .txt_item_menu{
+               // border: 1px solid firebrick;
+               max-width: 300px;
+               margin-left: 10px;
+               .h2_general_test{
+                  color: black;
+                  margin-bottom: 5px;
+               }
+               .description_item_menu{
+                  color: rgb(143, 143, 143);
+                  letter-spacing: 1px;
+                  font-size: 14px;
+               }
+            }
+         }
+         &:hover{
+            box-shadow: 2px 2px 4px rgb(124, 124, 124);
+            transition-duration: 0.3s;
+         }
+      }
+   }
+}
+
+//ТЕСТЫ
+.box_test{
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 20px;
+   // border: 1px solid red;
+   height: 900px;
+   iframe{
+      display: block;
+      margin: 0 auto;
+      height: 100%;
+   }
+}

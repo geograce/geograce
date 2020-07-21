@@ -4,13 +4,13 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Геодезия алфавит о">
+   <meta name="description" content="Тестирование знаний по геодезии, а также тест по наукам близких к геодезии.">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300&display=swap" rel="stylesheet">
-   <title>Алфавит О</title>
+   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
+   <title>Тест по геодезии</title>
 </head>
 
 <body>
@@ -37,16 +37,12 @@
    <?php
       require "../module_php/menu_general.php";
    ?>
-
-   <div class="box_dictionary_general">
-      <p class="title_dictionary">О</p>
-      <a href="/dictionary/o/obnovlenie-topograficheskikh-kart.php">Обновление топографических карт</a>
-      <a href="/dictionary/o/opticheskij-dalnomer.php">Оптический дальномер</a>
-      <a href="/dictionary/o/orientirovanie-geodezicheskoe.php">Ориентирование геодезическое</a>
-      <a href="/dictionary/o/orientirovanie-po-karte.php">Ориентирование по карте</a>
-      <a href="/dictionary/o/ortofotoproektor.php">Ортофотопроектор</a>
-      <a href="/dictionary/o/ortofotosnimok.php" style="margin-bottom: 300px;">Ортофотоснимок</a>
+   <div class="box_test">
+      <iframe
+         src="https://docs.google.com/forms/d/e/1FAIpQLSeRLU41fzmSUKtBBt0QkAcdBgzOc2Qz93jWlHlTQJVI19rTcw/viewform?embedded=true"
+         width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
    </div>
+
 
    <?php
       require "../module_php/footer_general.php";

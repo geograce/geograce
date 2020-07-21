@@ -8,6 +8,7 @@
    padding: 0 20px;
    font-family: "Ubuntu", sans-serif;
    border-bottom: 1px solid gray;
+   position: relative;
    .box_logo_general{
       display: flex;
       align-items: center;
@@ -79,6 +80,47 @@
          right: 50px;
          font-size: 30px;
          padding: 5px;
+      }
+   }
+   //Алфавит меню=========================================
+   .menu_alphabet_general{
+      display: none;
+      justify-content: center;
+      align-content: center;
+      grid-template-columns: repeat(6, 50px);
+      grid-auto-rows: 50px;
+      grid-gap: 20px;
+      padding-left: 20px;
+      position: fixed;
+      background: rgba(0, 0, 0, 0.95);
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 3;
+      a{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         color: rgb(241, 241, 241);
+         text-decoration: none;
+         font-size: 20px;
+         margin-bottom: 7px;
+         font-weight: 300;
+         font-family: "Ubuntu", sans-serif;
+         border: 1px solid rgb(145, 145, 145);
+         &:hover{
+            color: rgb(240, 108, 0);
+         }
+      }
+      .close_alphabet_menu_general{
+         position: absolute;
+         top: 50px;
+         right: 50px;
+         font-size: 30px;
+         padding: 5px;
+         border: none;
+         color: white;
       }
    }
 }
