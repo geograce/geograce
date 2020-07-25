@@ -170,6 +170,20 @@
       }
    }
    //======================================================
+   //====================  ОПРЕДЕЛЕНИЯ  ===================
+   //======================================================
+   .description_general{
+      .length_number_pgz{
+         width: 110px;
+      }
+      .length_formula_pgz{
+         width: 120px;
+      }
+      .length_data_pgz{
+         width: 110px;
+      }
+   }
+   //======================================================
    //===============  СТРАНИЦА BLOG  ======================
    //======================================================
    .home_blog{
@@ -331,13 +345,35 @@
          line-height: 1.4;
          padding: 0;
       }
-      .formula_description{
-         font-size: 16px;
-      }
       .figure_img_description_general{
          .figcaption_general{
             font-size: 16px;
          }
+      }
+      .header_table_pgz{
+         height: 35px;
+         font-size: 9px;
+      }
+      .data_table_pgz{
+         height: 35px;
+         font-size: 9px;
+      }
+      .length_number_pgz{
+         width: 50px;
+      }
+      .length_formula_pgz{
+         width: 70px;
+      }
+      .length_data_pgz{
+         width: 60px;
+      }
+      .length_footnote_pgz{
+         width: 140px;
+      }
+      .length_footnote_pgz2{
+         font-size: 8px;
+         width: 140px;
+         line-height: 1;
       }
    }
    //======================================================
@@ -473,4 +509,8 @@
          }
       }
    }
+   //======================================================
+   //====================  ОПРЕДЕЛЕНИЯ  ===================
+   //======================================================
+   .description_general{}
 }

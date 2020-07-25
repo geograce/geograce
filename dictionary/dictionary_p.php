@@ -43,7 +43,8 @@
       <a href="/dictionary/p/pantograf.php">Пантограф</a>
       <a href="/dictionary/p/peredacha-geograficheskikh-nazvanij.php">Передача географических названий</a>
       <a href="/dictionary/p/perekhodnaya-tochka.php">Переходная точка</a>
-      <a href="/dictionary/p/pogreshnosti.php" style="margin-bottom: 320px;">Погрешности</a>
+      <a href="/dictionary/p/pogreshnosti.php">Погрешности</a>
+      <a href="/dictionary/p/pryamaya-geodezicheskaya-zadacha.php" style="margin-bottom: 310px;">Прямая геодезическая задача</a>
    </div>
 
    <?php

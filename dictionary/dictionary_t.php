@@ -42,7 +42,8 @@
       <p class="title_dictionary">Т</p>
       <a href="/dictionary/t/takheometr.php">Тахеометр</a>
       <a href="/dictionary/t/topografiya.php">Топография</a>
-      <a href="/dictionary/t/topocentricheskie-koordinaty.php" style="margin-bottom: 330px;">Топоцентрические координаты</a>
+      <a href="/dictionary/t/topocentricheskie-koordinaty.php">Топоцентрические координаты</a>
+      <a href="/dictionary/t/tochnost-izmereniya.php" style="margin-bottom: 320px;">Точность измерения</a>
    </div>
 
    <?php

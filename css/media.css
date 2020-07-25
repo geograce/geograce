@@ -127,6 +127,16 @@
     font-size: 18px;
   }
 
+  .description_general .length_number_pgz {
+    width: 110px;
+  }
+  .description_general .length_formula_pgz {
+    width: 120px;
+  }
+  .description_general .length_data_pgz {
+    width: 110px;
+  }
+
   .home_blog .h1_home_blog {
     font-size: 30px;
   }
@@ -256,11 +266,33 @@
     line-height: 1.4;
     padding: 0;
   }
-  .description_general .formula_description {
-    font-size: 16px;
-  }
   .description_general .figure_img_description_general .figcaption_general {
     font-size: 16px;
+  }
+  .description_general .header_table_pgz {
+    height: 35px;
+    font-size: 9px;
+  }
+  .description_general .data_table_pgz {
+    height: 35px;
+    font-size: 9px;
+  }
+  .description_general .length_number_pgz {
+    width: 50px;
+  }
+  .description_general .length_formula_pgz {
+    width: 70px;
+  }
+  .description_general .length_data_pgz {
+    width: 60px;
+  }
+  .description_general .length_footnote_pgz {
+    width: 140px;
+  }
+  .description_general .length_footnote_pgz2 {
+    font-size: 8px;
+    width: 140px;
+    line-height: 1;
   }
 
   .home_blog .h1_home_blog {

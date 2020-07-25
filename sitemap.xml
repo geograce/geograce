@@ -80,6 +80,9 @@
 <url>
   <loc>https://www.geograce.ru/dictionary/v/verner.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/v/vysota.php</loc>
+</url>
 
 <!--===== Г =====-->
 <url>
@@ -101,6 +104,9 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/d/demaskiruyushchie-priznaki.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/d/dolgota.php</loc>
 </url>
 
 <!--===== З =====-->
@@ -178,6 +184,9 @@
 <url>
   <loc>https://www.geograce.ru/dictionary/m/mestnye-predmety.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/m/mesto-zenita.php</loc>
+</url>
 
 <!--===== Н =====-->
 <url>
@@ -196,6 +205,9 @@
 <!--===== О =====-->
 <url>
   <loc>https://www.geograce.ru/dictionary/o/obnovlenie-topograficheskikh-kart.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/o/obratnaya-geodezicheskaya-zadacha.php</loc>
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/o/opticheskij-dalnomer.php</loc>
@@ -225,6 +237,9 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/p/pogreshnosti.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/p/pryamaya-geodezicheskaya-zadacha.php</loc>
 </url>
 
 <!--===== Р =====-->
@@ -265,6 +280,9 @@
 <url>
   <loc>https://www.geograce.ru/dictionary/t/topocentricheskie-koordinaty.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/t/tochnost-izmereniya.php</loc>
+</url>
 
 <!--===== У =====-->
 <url>
@@ -283,6 +301,9 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/dictionary/f/fotokarty-topograficheskie.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/dictionary/f/fotoplan.php</loc>
 </url>
 
 <!--===== Х =====-->

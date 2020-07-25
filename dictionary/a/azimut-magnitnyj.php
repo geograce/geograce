@@ -44,18 +44,20 @@
       <h1 class="h1_description_general">Азимут магнитный</h1>
       <p class="txt_description_general"><strong>АЗИМУТ МАГНИТНЫЙ</strong> &ndash; это горизонтальный угол, который
          отсчитывается от северного направления магнитного меридиана до данного направления по ходу часовой стрелки от 0
-         до 360 градусов. Взаимосвязь между магнитным A<sub>M</sub> и истинным &alpha; азимутами выражается формулой:</p>
+         до 360 градусов. Взаимосвязь между магнитным A<sub>M</sub> и истинным &alpha; азимутами выражается формулой:
+      </p>
       <p class="formula_description">$$A_M=\alpha - (&plusmn;\delta)$$</p>
       <p class="txt_description_general">где &delta; &ndash; склонение магнитной стрелки, принимаемое к востоку от
          истинного меридиана со знаком « + » и к западу со знаком « - ».</p>
       <p class="txt_description_general"><strong>Задача 1.</strong> Истинный азимут заданного направления составляет
-         120&deg;00&prime;, восточное склонение магнитной стрелки 5&deg;00&prime;. Нужно найти магнитный азимут направления. Находим по формуле:</p>
-      <p class="formula_description">$$A_M=
-         &alpha;-(&plusmn;&delta;)=120&deg;00^&prime;-(+5&deg;00^&prime;)=115&deg;00^&prime;$$</p>
+         120&deg;00&prime;, восточное склонение магнитной стрелки 5&deg;00&prime;. Нужно найти магнитный азимут
+         направления. Находим по формуле:</p>
+      <p class="formula_description">$$A_M=&alpha;-(&plusmn;&delta;)=$$</p>
+      <p class="formula_description">$$=120&deg;00^&prime;-(+5&deg;00^&prime;)=115&deg;00^&prime;$$</p>
       <p class="txt_description_general"><strong>Задача 2.</strong> Перевести магнитный азимут 151&deg;10&prime; в
          истинный, если западное склонение равно 11&deg;10&prime;. Вычисляем по формуле:</p>
-      <p class="formula_description">
-         $$&alpha;=A_M+(&plusmn;&delta;)=151&deg;10^&prime;+(-11&deg;05^&prime;)=140&deg;05^&prime;$$</p>
+      <p class="formula_description">$$&alpha;=A_M+(&plusmn;&delta;)=$$</p>
+      <p class="formula_description">$$=151&deg;10^&prime;+(-11&deg;05^&prime;)=140&deg;05^&prime;$$</p>
    </div>
 
    <?php

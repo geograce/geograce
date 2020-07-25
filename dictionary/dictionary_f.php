@@ -43,7 +43,8 @@
       <a href="/dictionary/f/filtraciya-izobrazheniya.php">Фильтрация изображения</a>
       <a href="/dictionary/f/fotogrammetricheskie-zasechki.php">Фотограмметрические засечки</a>
       <a href="/dictionary/f/fotogrammetriya.php">Фотограмметрия</a>
-      <a href="/dictionary/f/fotokarty-topograficheskie.php" style="margin-bottom: 320px;">Фотокарты топографические</a>
+      <a href="/dictionary/f/fotokarty-topograficheskie.php">Фотокарты топографические</a>
+      <a href="/dictionary/f/fotoplan.php" style="margin-bottom: 310px;">Фотоплан</a>
    </div>
 
    <?php

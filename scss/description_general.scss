@@ -4,8 +4,8 @@
    margin: 0 auto;
    padding-top: 70px;
    min-height: calc(100vh - 220px);
+   font-family: 'IBM Plex Sans', sans-serif;
    .list_description_general{
-      font-family: 'IBM Plex Sans', sans-serif;
       font-weight: normal;
       font-size: 20px;
       list-style-position: inside;
@@ -21,20 +21,18 @@
    }
    .h1_description_general{
       margin-bottom: 30px;
-      font-family: 'Open Sans', sans-serif;
-      font-family: 'IBM Plex Sans', sans-serif;
       color: rgb(56, 56, 56);
    }
+   .h2_description_general{
+      margin-bottom: 30px;
+      font-size: 20px;
+   }
    .txt_description_general{
-      font-family: 'IBM Plex Sans', sans-serif;
       font-weight: normal;
       font-size: 20px;
       line-height: 1.5;
       text-align: justify;
       margin-bottom: 20px;
-   }
-   .formula_description{
-      font-size: 26px;
    }
    .figure_img_description_general{
       margin: 0 auto;
@@ -50,5 +48,65 @@
          margin: 10px 0;
          font-size: 18px;
       }
+   }
+   //Прямая геодезическая задача
+   .header_table_pgz{
+      border-bottom: 2px solid black;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      font-weight: 500;
+      height: 50px;
+      max-width: 900px;
+      text-align: center;
+   }
+   .data_table_pgz{
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      height: 50px;
+      max-width: 900px;
+      text-align: center;
+   }
+   .length_number_pgz{
+      width: 170px;
+   }
+   .length_formula_pgz{
+      width: 200px;
+   }
+   .length_data_pgz{
+      width: 150px;
+   }
+   .length_footnote_pgz{
+      width: 190px;
+   }
+   .length_footnote_pgz2{
+      width: 190px;
+      font-size: 11px;
+      text-align: left;
+      font-style: italic;;
+   }
+   .header_table_rumb{
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+   }
+   .length_dxdy_rumb{
+      width: 30px;
+   }
+   .length_dir_rumb{
+      width: 120px;
+   }
+   .length_number_fourth_rumb{
+      width: 90px;
+   }
+   .length_formula_rumb{
+      width: 140px;
+   }
+   .length_name_rumb{
+      width: 120px;
    }
 }

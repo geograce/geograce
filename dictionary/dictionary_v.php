@@ -43,7 +43,8 @@
       <a href="/dictionary/v/velichiny-izmerennye-vychislennye-i-postoyannye.php">Величины измеренные, вычисленные и
          постоянные</a>
       <a href="/dictionary/v/velichiny-nezavisimye-i-zavisimye.php">Величины независимые и зависимые</a>
-      <a href="/dictionary/v/verner.php"  style="margin-bottom: 330px;">Верньер</a>
+      <a href="/dictionary/v/verner.php">Верньер</a>
+      <a href="/dictionary/v/vysota.php"  style="margin-bottom: 320px;">Высота</a>
    </div>
 
    <?php

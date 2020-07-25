@@ -43,7 +43,8 @@
       <a href="/dictionary/m/maket-mestnosti.php">Макет местности</a>
       <a href="/dictionary/m/matematicheskaya-kartografiya.php">Математическая картография</a>
       <a href="/dictionary/m/mezhen.php">Межень</a>
-      <a href="/dictionary/m/mestnye-predmety.php" style="margin-bottom: 320px;">Местные предметы</a>
+      <a href="/dictionary/m/mestnye-predmety.php">Местные предметы</a>
+      <a href="/dictionary/m/mesto-zenita.php" style="margin-bottom: 310px;">Место зенита</a>
    </div>
 
    <?php
