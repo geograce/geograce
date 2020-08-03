@@ -5,6 +5,7 @@
       <a href="#" class="close_mobile_menu_general">x</a>
       <a href="/index.html">Главная</a>
       <a href="#" id="mobile_menu_alphabet">Алфавит</a>
+      <a href="/catalog/catalog.php">Инструкции</a>
       <a href="/blog/blog-1.php">Блог</a>
       <a href="../test/test.php">Тесты</a>
    </nav>
@@ -17,6 +18,7 @@
    <nav class="nav_general">
       <a href="/index.html">Главная</a>
       <a href="#" id="menu_alphabet">Алфавит</a>
+      <a href="/catalog/catalog.php">Инструкции</a>
       <a href="/blog/blog-1.php">Блог</a>
       <a href="../test/test.php">Тесты</a>
    </nav>

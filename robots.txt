@@ -27,5 +27,8 @@ Disallow: /blog/blog-1.php
 Disallow: /about-us.php
 Disallow: /test/test.php
 Disallow: /google3e5ad848a1102d6e.html
+Disallow: /catalog/catalog.php
+Disallow: /catalog/takheometr/takheometr-catalog.php
+Disallow: /catalog/nivelir/nivelir-catalog.php
 
 Sitemap: https://www.geograce.ru/sitemap.xml

@@ -96,6 +96,86 @@
     border-bottom: 1px solid gray;
     padding-bottom: 60px;
   }
+
+  .catalog_home_instrument .catalog_menu_instrument {
+    grid-template-columns: 70%;
+    grid-template-rows: 200px 200px;
+    justify-content: center;
+  }
+
+  .catalog_takheometr {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 90px 200px 200px 200px;
+  }
+  .catalog_takheometr .h1_catalog_takheometr {
+    grid-column: 1/3;
+  }
+  .catalog_takheometr .box_taheo_geomax {
+    grid-column: 1/2;
+    grid-row: 2;
+  }
+  .catalog_takheometr .box_taheo_leica {
+    grid-column: 2/3;
+    grid-row: 2;
+  }
+  .catalog_takheometr .box_taheo_nikon {
+    grid-column: 1/2;
+    grid-row: 3;
+  }
+  .catalog_takheometr .box_taheo_sokkia {
+    grid-column: 2/3;
+    grid-row: 3;
+  }
+  .catalog_takheometr .box_taheo_topcon {
+    grid-column: 1/2;
+    grid-row: 4;
+  }
+  .catalog_takheometr .box_taheo_trimble {
+    grid-column: 2/3;
+    grid-row: 4;
+  }
+
+  .instrument_takheometr .title_table_download_instruction {
+    width: 100%;
+  }
+  .instrument_takheometr .data_table_download_instruction {
+    width: 100%;
+  }
+  .instrument_takheometr .box_img_instruction_instrument {
+    grid-template-rows: 200px 300px 300px;
+  }
+
+  .catalog_nivelir {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 90px 200px 200px 200px;
+  }
+  .catalog_nivelir .h1_catalog_nivelir {
+    grid-column: 1/3;
+  }
+  .catalog_nivelir .box_nivelir_geomax {
+    grid-column: 1/2;
+    grid-row: 2;
+  }
+  .catalog_nivelir .box_nivelir_leica {
+    grid-column: 2/3;
+    grid-row: 2;
+  }
+  .catalog_nivelir .box_nivelir_nicon {
+    grid-column: 1/2;
+    grid-row: 3;
+  }
+  .catalog_nivelir .box_nivelir_sokkia {
+    grid-column: 2/3;
+    grid-row: 3;
+  }
+  .catalog_nivelir .box_nivelir_rgk {
+    grid-column: 1/2;
+    grid-row: 4;
+  }
+  .catalog_nivelir .box_nivelir_trimble {
+    grid-column: 2/3;
+    grid-row: 4;
+  }
 }
 @media screen and (max-width: 768px) {
   .index_header {
@@ -193,6 +273,82 @@
   }
   .main_box_article .length_side_vychislenie_treugolnikov {
     width: 70px;
+  }
+
+  .catalog_home_instrument .catalog_menu_instrument {
+    grid-template-rows: 170px 170px;
+    grid-template-columns: 90%;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .img_takheometr_instrument {
+    background-size: 90px;
+    width: 170px;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .img_nivelir_instrument {
+    background-size: 100px;
+    width: 170px;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .txt_box_instrument .h2_catalog_home_instrument {
+    font-size: 18px;
+  }
+
+  .catalog_takheometr {
+    grid-gap: 20px;
+  }
+  .catalog_takheometr .h1_catalog_takheometr {
+    font-size: 24px;
+  }
+  .catalog_takheometr .box_takheometr .h2_catalog_takheometr {
+    font-size: 22px;
+  }
+  .catalog_takheometr .box_takheometr .link_takheometr {
+    font-size: 16px;
+  }
+
+  .instrument_takheometr {
+    font-size: 14px;
+  }
+  .instrument_takheometr .h1_instrument_takheometr {
+    font-size: 24px;
+  }
+  .instrument_takheometr .length_name_download_instruction {
+    width: 340px;
+  }
+  .instrument_takheometr .txt_instruction_instrument {
+    margin-top: 30px;
+  }
+  .instrument_takheometr .box_img_instruction_instrument {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 150px 250px 250px 250px;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_1 {
+    grid-column: 1/4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_2 {
+    grid-column: 1/4;
+    grid-row: 4/5;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_3 {
+    grid-column: 1/3;
+    grid-row: 2/4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_4 {
+    grid-column: 3/4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_5 {
+    grid-column: 3/4;
+  }
+
+  .catalog_nivelir {
+    grid-gap: 20px;
+  }
+  .catalog_nivelir .h1_catalog_nivelir {
+    font-size: 24px;
+  }
+  .catalog_nivelir .box_nivelir .h2_catalog_nivelir {
+    font-size: 22px;
+  }
+  .catalog_nivelir .box_nivelir .link_nivelir {
+    font-size: 16px;
   }
 }
 @media screen and (max-width: 480px) {
@@ -390,6 +546,149 @@
   .general_test .box_menu_test .item_menu .link_item_menu .txt_item_menu .h2_general_test {
     margin-top: 10px;
     font-size: 20px;
+  }
+
+  .catalog_home_instrument .catalog_menu_instrument {
+    grid-template-rows: 190px 190px;
+    grid-template-columns: 100%;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument {
+    flex-direction: column;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .img_takheometr_instrument {
+    background-size: 60px;
+    width: 190px;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .img_nivelir_instrument {
+    background-size: 80px;
+    width: 190px;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .txt_box_instrument {
+    width: 100%;
+    text-align: center;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .txt_box_instrument .h2_catalog_home_instrument {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  .catalog_home_instrument .catalog_menu_instrument .link_geodesy_instrument .geodesy_instrument .txt_box_instrument .txt_instrument {
+    font-size: 12px;
+  }
+
+  .catalog_takheometr {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .catalog_takheometr .h1_catalog_takheometr {
+    grid-column: 1;
+    grid-row: 1;
+    margin-bottom: 30px;
+  }
+  .catalog_takheometr .box_taheo_geomax {
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .catalog_takheometr .box_taheo_leica {
+    grid-column: 1;
+    grid-row: 3;
+  }
+  .catalog_takheometr .box_taheo_nikon {
+    grid-column: 1;
+    grid-row: 4;
+  }
+  .catalog_takheometr .box_taheo_sokkia {
+    grid-column: 1;
+    grid-row: 5;
+  }
+  .catalog_takheometr .box_taheo_topcon {
+    grid-column: 1;
+    grid-row: 6;
+  }
+  .catalog_takheometr .box_taheo_trimble {
+    grid-column: 1;
+    grid-row: 7;
+  }
+
+  .instrument_takheometr {
+    font-size: 10px;
+  }
+  .instrument_takheometr .h1_instrument_takheometr {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .instrument_takheometr .title_table_download_instruction {
+    height: 32px;
+  }
+  .instrument_takheometr .data_table_download_instruction {
+    height: 32px;
+  }
+  .instrument_takheometr .length_name_download_instruction {
+    width: 320px;
+    padding-left: 10px;
+  }
+  .instrument_takheometr .length_size_download_instruction {
+    width: 100px;
+  }
+  .instrument_takheometr .txt_instruction_instrument {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  .instrument_takheometr .box_img_instruction_instrument {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 150px 150px 150px 150px;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_1 {
+    grid-column: 1/5;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_2 {
+    grid-column: 1/3;
+    grid-row: 2/4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_3 {
+    grid-column: 3/5;
+    grid-row: 2/4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_4 {
+    grid-column: 1/5;
+    grid-row: 4;
+  }
+  .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_5 {
+    grid-column: 1/5;
+    grid-row: 5;
+  }
+
+  .catalog_nivelir {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .catalog_nivelir .h1_catalog_nivelir {
+    grid-column: 1;
+    grid-row: 1;
+    margin-bottom: 30px;
+  }
+  .catalog_nivelir .box_nivelir_geomax {
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .catalog_nivelir .box_nivelir_leica {
+    grid-column: 1;
+    grid-row: 3;
+  }
+  .catalog_nivelir .box_nivelir_nicon {
+    grid-column: 1;
+    grid-row: 4;
+  }
+  .catalog_nivelir .box_nivelir_sokkia {
+    grid-column: 1;
+    grid-row: 5;
+  }
+  .catalog_nivelir .box_nivelir_rgk {
+    grid-column: 1;
+    grid-row: 6;
+  }
+  .catalog_nivelir .box_nivelir_trimble {
+    grid-column: 1;
+    grid-row: 7;
   }
 }
 @media screen and (max-width: 320px) {

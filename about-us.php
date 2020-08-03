@@ -66,7 +66,7 @@
          <div class="line_timeline_about_us item_about_us_14"></div>
          <p class="txt_date_timeline_about_us  item_about_us_15">Реализация тестирования знаний в области геодезии.</p>
          
-         <p class="date_timeline_about_us item_about_us_16">09.2020 &ndash;</p>
+         <p class="date_timeline_about_us item_about_us_16">08.2020 &ndash;</p>
          <div class="circle_timeline_about_us item_about_us_17">
             <div class="circle_2_timeline_about_us"></div>
          </div>
