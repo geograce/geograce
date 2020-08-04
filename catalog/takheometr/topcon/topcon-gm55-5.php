@@ -40,7 +40,7 @@
    ?>
 
    <div class="instrument_takheometr">
-      <h1 class="h1_instrument_takheometr">Инструкция тахеометра Topcon GM-55 5&Prime;</h1>
+      <h1 class="h1_instrument_takheometr">Инструкция тахеометра Topcon GM-55</h1>
       <div class="title_table_download_instruction">
          <p class="length_name_download_instruction">Название</p>
          <p class="length_type_download_instruction">Тип файла</p>
@@ -48,20 +48,20 @@
          <p class="length_download_download_instruction">Загрузка</p>
       </div>
       <div class="data_table_download_instruction">
-         <p class="length_name_download_instruction">Инструкция Topcon GM-55 5&Prime;</p>
+         <p class="length_name_download_instruction">Инструкция Topcon GM-55</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">мб</p>
          <a href="/download/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-instruction.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
       <div class="data_table_download_instruction" style="border-bottom: 1px solid black;">
-         <p class="length_name_download_instruction">Брошюра Topcon GM-55 5&Prime;</p>
+         <p class="length_name_download_instruction">Брошюра Topcon GM-55</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">мб</p>
          <a href="/download/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-brochure.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
-      <p class="txt_instruction_instrument">Тахеометр Topcon GM-55 5&Prime; это современный, технологический и
+      <p class="txt_instruction_instrument">Тахеометр Topcon GM-55 &ndash; это современный, технологический и
          универсальный прибор способный измерять горизонтальные углы с точностью 5&Prime;, а также имеет мощный и точный
          дальномер, способный измерять расстояние на 500 м в без отражательном режиме. При помощи встроенного
          программного обеспечения можно выполнять такие измерения как прямая и обратная засечка, разбивка трасс,

@@ -5,13 +5,13 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description"
-      content="Использование тахеометра Geomax Zipp10R Pro 5 без инструкции нецелесообразно. В инструкции можно узнать, как проводить различные измерения и автоматизировать процесс. Скачать инструкцию и руководство пользователя к тахеометру Geomax Zipp10R Pro 5">
+      content="Использование тахеометра Geomax Zipp10R Pro без инструкции нецелесообразно. В инструкции можно узнать, как проводить различные измерения и автоматизировать процесс. Скачать инструкцию и руководство пользователя к тахеометру Geomax Zipp10R Pro">
    <link rel="stylesheet" href="/css/style.css">
    <link rel="stylesheet" href="/css/media.css">
    <link rel="icon" href="/img/general/favicon.png">
    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,700&display=swap" rel="stylesheet">
-   <title>Скачать инструкцию, руководство пользователя к тахеометру GeoMax Zipp10R Pro 5</title>
+   <title>Скачать инструкцию, руководство пользователя к тахеометру GeoMax Zipp10R Pro</title>
 </head>
 
 <body>
@@ -40,7 +40,7 @@
    ?>
 
    <div class="instrument_takheometr">
-      <h1 class="h1_instrument_takheometr">Инструкция тахеометра GeoMax Zipp10R Pro 5&Prime;</h1>
+      <h1 class="h1_instrument_takheometr">Инструкция тахеометра GeoMax Zipp10R Pro</h1>
       <div class="title_table_download_instruction">
          <p class="length_name_download_instruction">Название</p>
          <p class="length_type_download_instruction">Тип файла</p>
@@ -48,28 +48,28 @@
          <p class="length_download_download_instruction">Загрузка</p>
       </div>
       <div class="data_table_download_instruction">
-         <p class="length_name_download_instruction">Инструкция GeoMax Zipp10R Pro 5&Prime;</p>
+         <p class="length_name_download_instruction">Инструкция GeoMax Zipp10R Pro</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">14.2 мб</p>
          <a href="/download/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10-pro-instruction.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
       <div class="data_table_download_instruction">
-         <p class="length_name_download_instruction">Краткая инструкция GeoMax Zipp10R Pro 5&Prime;</p>
+         <p class="length_name_download_instruction">Краткая инструкция GeoMax Zipp10R Pro</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">2.27 мб</p>
          <a href="/download/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10-pro-kratkoe-instruction.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
       <div class="data_table_download_instruction" style="border-bottom: 1px solid black;">
-         <p class="length_name_download_instruction">Брошюра GeoMax Zipp10R Pro 5&Prime;</p>
+         <p class="length_name_download_instruction">Брошюра GeoMax Zipp10R Pro</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">0.28 мб</p>
          <a href="/download/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10-pro-brochure.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
-      <p class="txt_instruction_instrument">Тахеометр Geomax Zipp10R Pro 5&Prime; это технический тахеометр способный
-         измерять горизонтальные углы с точностью 5&Prime;, а также производить измерения расстояний как на отражатель,
+      <p class="txt_instruction_instrument">Тахеометр Geomax Zipp10R Pro это технический тахеометр способный
+         измерять горизонтальные углы с точностью 5&Prime; и 2&Prime;, а также производить измерения расстояний как на отражатель,
          так и в без отражательном режиме. При помощи встроенного программного обеспечения можно выполнять такие
          измерения как прямая и обратная засечка, разбивка трасс, вычислять объемы и площади. При эксплуатации
          тахеометра GeoMax нужно ознакомиться с инструкцией, которую можно <strong>скачать</strong> на нашем сайте.

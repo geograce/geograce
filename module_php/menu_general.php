@@ -20,7 +20,7 @@
       <a href="#" id="menu_alphabet">Алфавит</a>
       <a href="/catalog/catalog.php">Инструкции</a>
       <a href="/blog/blog-1.php">Блог</a>
-      <a href="../test/test.php">Тесты</a>
+      <a href="/test/test.php">Тесты</a>
    </nav>
    <!--Бургер меню=================================-->
    <div class="burger_menu_general" id="bg_menu_general">

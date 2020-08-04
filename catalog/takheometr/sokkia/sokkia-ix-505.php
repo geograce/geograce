@@ -40,7 +40,7 @@
    ?>
 
    <div class="instrument_takheometr">
-      <h1 class="h1_instrument_takheometr">Инструкция тахеометра Sokkia iX-505 5&Prime;</h1>
+      <h1 class="h1_instrument_takheometr">Инструкция тахеометра Sokkia iX-505</h1>
       <div class="title_table_download_instruction">
          <p class="length_name_download_instruction">Название</p>
          <p class="length_type_download_instruction">Тип файла</p>
@@ -48,20 +48,20 @@
          <p class="length_download_download_instruction">Загрузка</p>
       </div>
       <div class="data_table_download_instruction">
-         <p class="length_name_download_instruction">Инструкция Sokkia iX-505 5&Prime;</p>
+         <p class="length_name_download_instruction">Инструкция Sokkia iX-505</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">13.6 мб</p>
          <a href="/download/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-instruction.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
       <div class="data_table_download_instruction" style="border-bottom: 1px solid black;">
-         <p class="length_name_download_instruction">Брошюра Sokkia iX-505 5&Prime;</p>
+         <p class="length_name_download_instruction">Брошюра Sokkia iX-505</p>
          <p class="length_type_download_instruction">pdf</p>
          <p class="length_size_download_instruction">1.96 мб</p>
          <a href="/download/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-brochure.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
-      <p class="txt_instruction_instrument">Тахеометр Sokkia iX-505 5&Prime; это роботизированный тахеометр способный
+      <p class="txt_instruction_instrument">Тахеометр Sokkia iX-505 &ndash; это роботизированный тахеометр способный
          измерять горизонтальные углы с точностью 5&Prime;, а сверхбыстрые сервомоторы позволяют достичь угловой
          скорости вращения прибора до 85&deg; за секунду. Улучшенная технология слежения за призмой UltraTrac позволяет
          следить за призмой даже на довольно коротких расстояниях и высокой скорости ее перемещения. Тахеометры Sokkia
