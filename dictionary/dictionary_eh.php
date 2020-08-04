@@ -42,8 +42,9 @@
       <p class="title_dictionary">Э</p>
       <a href="/dictionary/eh/ehkvator.php">Экватор</a>
       <a href="/dictionary/eh/ehllips-iskazhenij.php">Эллипс искажений</a>
+      <a href="/dictionary/eh/ehklimetr.php">Эклиметр</a>
       <a href="/dictionary/eh/ehkker.php">Эккер</a>
-      <a href="/dictionary/eh/ehlevacionnyj-vint.php" style="margin-bottom: 320px;">Элевационный винт</a>
+      <a href="/dictionary/eh/ehlevacionnyj-vint.php" style="margin-bottom: 310px;">Элевационный винт</a>
    </div>
 
    <?php
