@@ -61,11 +61,11 @@
          скачайте <strong>руководство пользователя</strong> для нивелира Leica NA 320, которое вы можете распечатать
          или читать как с компьютера, так и с мобильных устройств в формате pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_leica_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_nivelir_leica_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_nivelir_leica_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_nivelir_leica_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_nivelir_leica_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_leica_logo img_item_instrument_grid_1"></div>
+         <div class="img_nivelir_leica_na320_1 img_item_instrument_grid_2"></div>
+         <div class="img_nivelir_leica_na320_2 img_item_instrument_grid_3"></div>
+         <div class="img_nivelir_leica_na320_3 img_item_instrument_grid_4"></div>
+         <div class="img_nivelir_leica_na320_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

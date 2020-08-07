@@ -62,11 +62,11 @@
          скачайте <strong>руководство пользователя</strong> для нивелира Nikon AX-2S, которое вы можете распечатать
          или читать как с компьютера, так и с мобильных устройств в формате pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_nikon_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_nivelir_nikon_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_nivelir_nikon_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_nivelir_nikon_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_nivelir_nikon_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_nikon_logo img_item_instrument_grid_1"></div>
+         <div class="img_nivelir_nikon_ax_2s_1 img_item_instrument_grid_2"></div>
+         <div class="img_nivelir_nikon_ax_2s_2 img_item_instrument_grid_3"></div>
+         <div class="img_nivelir_nikon_ax_2s_3 img_item_instrument_grid_4"></div>
+         <div class="img_nivelir_nikon_ax_2s_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

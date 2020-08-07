@@ -78,11 +78,11 @@
          которое вы можете распечатать или читать как с компьютера, так и с мобильных устройств в формате
          pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_trimble_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_trimble_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_trimble_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_trimble_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_trimble_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_trimble_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_trimble_c3_5_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_trimble_c3_5_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_trimble_c3_5_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_trimble_c3_5_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

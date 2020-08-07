@@ -78,11 +78,11 @@
          Zipp10R Pro, которое вы можете распечатать или читать как с компьютера, так и с мобильных устройств в формате
          pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_geomax_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_geomax_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_geomax_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_geomax_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_geomax_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_geomax_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_geomax_zipp10r_pro_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_geomax_zipp10r_pro_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_geomax_zipp10r_pro_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_geomax_zipp10r_pro_4 img_item_instrument_grid_5"></div>
       </div>
 
       <!-- <div class="data_table_title_takheometr">

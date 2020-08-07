@@ -44,31 +44,37 @@
       <div class="box_takheometr box_taheo_geomax">
          <h2 class="h2_catalog_takheometr">GeoMax</h2>
          <a href="/catalog/takheometr/geomax/geomax-zipp10r-pro-5.php" class="link_takheometr">GeoMax Zipp10R Pro</a>
+         <a href="/catalog/takheometr/geomax/geomax-zoom-25.php" class="link_takheometr">GeoMax Zoom 25</a>
       </div>
 
       <div class="box_takheometr box_taheo_leica">
          <h2 class="h2_catalog_takheometr">Leica</h2>
          <a href="/catalog/takheometr/leica/leica-ts03-r500-5.php" class="link_takheometr">Leica TS03 R500</a>
+         <a href="/catalog/takheometr/leica/leica-ts07-500.php" class="link_takheometr">Leica TS07 R500</a>
       </div>
 
       <div class="box_takheometr box_taheo_nikon">
          <h2 class="h2_catalog_takheometr">Nikon</h2>
-         <a href="/catalog/takheometr/nicon/nikon-npl-322-5.php" class="link_takheometr">Nikon NPL-322</a>
+         <a href="/catalog/takheometr/nicon/nikon-npl-322-5.php" class="link_takheometr">Nikon NPL&ndash;322</a>
+         <a href="/catalog/takheometr/nicon/nikon-nivo-5-mw+.php" class="link_takheometr">Nikon Nivo 5.MW+</a>
       </div>
 
       <div class="box_takheometr box_taheo_sokkia">
          <h2 class="h2_catalog_takheometr">Sokkia</h2>
-         <a href="/catalog/takheometr/sokkia/sokkia-ix-505.php" class="link_takheometr">Sokkia iX-505</a>
+         <a href="/catalog/takheometr/sokkia/sokkia-ix-505.php" class="link_takheometr">Sokkia iX&ndash;505</a>
+         <a href="/catalog/takheometr/sokkia/sokkia-cx-105.php" class="link_takheometr">Sokkia CX&ndash;105</a>
       </div>
 
       <div class="box_takheometr box_taheo_topcon">
          <h2 class="h2_catalog_takheometr">Topcon</h2>
-         <a href="/catalog/takheometr/topcon/topcon-gm55-5.php" class="link_takheometr">Topcon GM-55</a>
+         <a href="/catalog/takheometr/topcon/topcon-gm55-5.php" class="link_takheometr">Topcon GM&ndash;55</a>
+         <a href="/catalog/takheometr/topcon/topcon-os-105l.php" class="link_takheometr">Topcon OS&ndash;105L</a>
       </div>
 
       <div class="box_takheometr box_taheo_trimble">
          <h2 class="h2_catalog_takheometr">Trimble</h2>
          <a href="/catalog/takheometr/trimble/trimble-c3-5.php" class="link_takheometr">Trimble C3</a>
+         <a href="/catalog/takheometr/trimble/trimble-c5.php" class="link_takheometr">Trimble C5</a>
       </div>
    </div>
 

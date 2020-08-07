@@ -44,31 +44,39 @@
       <div class="box_nivelir box_nivelir_geomax">
          <h2 class="h2_catalog_nivelir">GeoMax</h2>
          <a href="/catalog/nivelir/geomax/geomax-zal120.php" class="link_nivelir">Geomax ZAL120</a>
+         <a href="/catalog/nivelir/geomax/geomax-zal124.php" class="link_nivelir">Geomax ZAL124</a>
       </div>
 
       <div class="box_nivelir box_nivelir_leica">
          <h2 class="h2_catalog_nivelir">Leica</h2>
          <a href="/catalog/nivelir/leica/leica-na320.php" class="link_nivelir">Leica NA320</a>
+         <a href="/catalog/nivelir/leica/leica-na324.php" class="link_nivelir">Leica NA324</a>
       </div>
 
       <div class="box_nivelir box_nivelir_nicon">
          <h2 class="h2_catalog_nivelir">Nikon</h2>
-         <a href="/catalog/nivelir/nikon/nikon-ax-2s.php" class="link_nivelir">Nikon AX-2S</a>
+         <a href="/catalog/nivelir/nikon/nikon-ax-2s.php" class="link_nivelir">Nikon AX&ndash;2S</a>
+         <a href="/catalog/nivelir/nikon/nikon-ac-2s.php" class="link_nivelir">Nikon AC&ndash;2S</a>
       </div>
 
       <div class="box_nivelir box_nivelir_sokkia">
          <h2 class="h2_catalog_nivelir">Sokkia</h2>
          <a href="/catalog/nivelir/sokkia/sokkia-b20.php" class="link_nivelir">Sokkia B20</a>
+         <a href="/catalog/nivelir/sokkia/sokkia-sdl30.php" class="link_nivelir">Sokkia SDL30</a>
+         <a href="/catalog/nivelir/sokkia/sokkia-sdl50.php" class="link_nivelir">Sokkia SDL50</a>
       </div>
 
       <div class="box_nivelir box_nivelir_rgk">
          <h2 class="h2_catalog_nivelir">RGK</h2>
-         <a href="/catalog/nivelir/rgk/rgk-c-20.php" class="link_nivelir">RGK C-20</a>
+         <a href="/catalog/nivelir/rgk/rgk-c-20.php" class="link_nivelir">RGK C&ndash;20</a>
+         <a href="/catalog/nivelir/rgk/rgk-c-24.php" class="link_nivelir">RGK C&ndash;24</a>
+         <a href="/catalog/nivelir/rgk/rgk-n-24.php" class="link_nivelir">RGK N&ndash;24</a>
       </div>
 
       <div class="box_nivelir box_nivelir_trimble">
          <h2 class="h2_catalog_nivelir">Trimble</h2>
          <a href="/catalog/nivelir/trimble/dini-03.php" class="link_nivelir">Trimble DiNi 0.3</a>
+         <a href="/catalog/nivelir/trimble/dini-07.php" class="link_nivelir">Trimble DiNi 0.7</a>
       </div>
    </div>
 

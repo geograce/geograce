@@ -71,11 +71,11 @@
          <strong>руководство пользователя</strong> для тахеометра Nikon NPL-322, которое вы можете распечатать или
          читать как с компьютера, так и с мобильных устройств в формате pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_nikon_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_nikon_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_nikon_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_nikon_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_nikon_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_nikon_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_nikon_npl_322_5_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_nikon_npl_322_5_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_nikon_npl_322_5_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_nikon_npl_322_5_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

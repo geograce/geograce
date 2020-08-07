@@ -71,11 +71,11 @@
          <strong>руководство пользователя</strong> для тахеометра Leica TS03 R500, которое вы можете распечатать или
          читать как с компьютера, так и с мобильных устройств в формате pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_leica_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_leica_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_leica_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_leica_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_leica_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_leica_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_leica_ts03_r500_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_leica_ts03_r500_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_leica_ts03_r500_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_leica_ts03_r500_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

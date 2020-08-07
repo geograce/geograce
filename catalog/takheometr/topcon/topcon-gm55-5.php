@@ -50,14 +50,14 @@
       <div class="data_table_download_instruction">
          <p class="length_name_download_instruction">Инструкция Topcon GM-55</p>
          <p class="length_type_download_instruction">pdf</p>
-         <p class="length_size_download_instruction">мб</p>
+         <p class="length_size_download_instruction">2.76 мб</p>
          <a href="/download/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-instruction.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
       <div class="data_table_download_instruction" style="border-bottom: 1px solid black;">
          <p class="length_name_download_instruction">Брошюра Topcon GM-55</p>
          <p class="length_type_download_instruction">pdf</p>
-         <p class="length_size_download_instruction">мб</p>
+         <p class="length_size_download_instruction">0.40 мб</p>
          <a href="/download/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-brochure.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
@@ -71,11 +71,11 @@
          для тахеометра Topcon GM-55, которое вы можете распечатать или читать как с компьютера, так и с мобильных
          устройств в формате pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_topcon_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_topcon_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_topcon_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_topcon_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_topcon_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_topcon_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_topcon_gm55_5_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_topcon_gm55_5_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_topcon_gm55_5_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_topcon_gm55_5_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

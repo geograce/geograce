@@ -388,51 +388,92 @@
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/geomax/geomax-zipp10r-pro-5.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/geomax/geomax-zoom-25.php</loc>
+</url>
 <!--===Leica====-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts03-r500-5.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts07-500.php</loc>
 </url>
 <!--===Nikon====-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/nicon/nikon-npl-322-5.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/nicon/nikon-nivo-5-mw+.php</loc>
+</url>
 <!--===Sokkia===-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-ix-505.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-cx-105.php</loc>
 </url>
 <!--===Topcon===-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/topcon/topcon-gm55-5.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/topcon/topcon-os-105l.php</loc>
+</url>
 <!--==Trimble===-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-c3-5.php</loc>
 </url>
-
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-c5.php</loc>
+</url>
 <!--====КАТАЛОГ НИВЕЛИРЫ====-->
 <!--===GeoMax===-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/geomax/geomax-zal120.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/geomax/geomax-zal124.php</loc>
+</url>
 <!--===Leica====-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na320.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na324.php</loc>
 </url>
 <!--===Nikon====-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ax-2s.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ac-2s.php</loc>
+</url>
 <!--===Sokkia===-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/sokkia/sokkia-b20.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/sokkia/sokkia-sdl30.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/sokkia/sokkia-sdl50.php</loc>
 </url>
 <!--===RGK======-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/rgk/rgk-c-20.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/rgk/rgk-c-24.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/rgk/rgk-n-24.php</loc>
+</url>
 <!--===Trimble==-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/trimble/dini-03.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/trimble/dini-07.php</loc>
 </url>
 
 </urlset>

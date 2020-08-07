@@ -1070,170 +1070,338 @@
   grid-template-rows: 300px 300px 300px;
   color: #f7f7f7;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_geomax_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_geomax_logo {
   background: url(/img/catalog/logo/geomax-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_geomax_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zipp10r_pro_1 {
   background: url(/img/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10r-pro-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_geomax_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zipp10r_pro_2 {
   background: url(/img/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10r-pro-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_geomax_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zipp10r_pro_3 {
   background: url(/img/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10r-pro-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_geomax_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zipp10r_pro_4 {
   background: url(/img/catalog/takheometr/geomax/geomax-zipp10r-pro/geomax-zipp10r-pro-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_geomax_1 {
-  background: url(/img/catalog/nivelir/geomax/geomax-zal-100/geomax-zal-100-1.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zoom_25_1 {
+  background: url(/img/catalog/takheometr/geomax/geomax-zoom-25/geomax-zoom-25-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_geomax_2 {
-  background: url(/img/catalog/nivelir/geomax/geomax-zal-100/geomax-zal-100-2.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zoom_25_2 {
+  background: url(/img/catalog/takheometr/geomax/geomax-zoom-25/geomax-zoom-25-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_geomax_3 {
-  background: url(/img/catalog/nivelir/geomax/geomax-zal-100/geomax-zal-100-3.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zoom_25_3 {
+  background: url(/img/catalog/takheometr/geomax/geomax-zoom-25/geomax-zoom-25-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_geomax_4 {
-  background: url(/img/catalog/nivelir/geomax/geomax-zal-100/geomax-zal-100-4.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_geomax_zoom_25_4 {
+  background: url(/img/catalog/takheometr/geomax/geomax-zoom-25/geomax-zoom-25-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_leica_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal120_1 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-120/geomax-zal-120-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal120_2 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-120/geomax-zal-120-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal120_3 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-120/geomax-zal-120-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal120_4 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-120/geomax-zal-120-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal124_1 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-124/geomax-zal-124-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal124_2 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-124/geomax-zal-124-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal124_3 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-124/geomax-zal-124-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_geomax_zal124_4 {
+  background: url(/img/catalog/nivelir/geomax/geomax-zal-124/geomax-zal-124-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_leica_logo {
   background: url(/img/catalog/logo/leica-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_leica_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts03_r500_1 {
   background: url(/img/catalog/takheometr/leica/leica-ts03-r500/leica-ts03-r500-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_leica_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts03_r500_2 {
   background: url(/img/catalog/takheometr/leica/leica-ts03-r500/leica-ts03-r500-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_leica_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts03_r500_3 {
   background: url(/img/catalog/takheometr/leica/leica-ts03-r500/leica-ts03-r500-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_leica_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts03_r500_4 {
   background: url(/img/catalog/takheometr/leica/leica-ts03-r500/leica-ts03-r500-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_leica_1 {
-  background: url(/img/catalog/nivelir/leica/leica-na-300/leica-na-300-1.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts07_500_1 {
+  background: url(/img/catalog/takheometr/leica/leica-ts07-r500/leica-ts07-r500-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_leica_2 {
-  background: url(/img/catalog/nivelir/leica/leica-na-300/leica-na-300-2.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts07_500_2 {
+  background: url(/img/catalog/takheometr/leica/leica-ts07-r500/leica-ts07-r500-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_leica_3 {
-  background: url(/img/catalog/nivelir/leica/leica-na-300/leica-na-300-3.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts07_500_3 {
+  background: url(/img/catalog/takheometr/leica/leica-ts07-r500/leica-ts07-r500-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_leica_4 {
-  background: url(/img/catalog/nivelir/leica/leica-na-300/leica-na-300-4.webp) center no-repeat;
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_leica_ts07_500_4 {
+  background: url(/img/catalog/takheometr/leica/leica-ts07-r500/leica-ts07-r500-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_nikon_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na320_1 {
+  background: url(/img/catalog/nivelir/leica/leica-na-320/leica-na-320-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na320_2 {
+  background: url(/img/catalog/nivelir/leica/leica-na-320/leica-na-320-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na320_3 {
+  background: url(/img/catalog/nivelir/leica/leica-na-320/leica-na-320-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na320_4 {
+  background: url(/img/catalog/nivelir/leica/leica-na-320/leica-na-320-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na324_1 {
+  background: url(/img/catalog/nivelir/leica/leica-na-324/leica-na-324-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na324_2 {
+  background: url(/img/catalog/nivelir/leica/leica-na-324/leica-na-324-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na324_3 {
+  background: url(/img/catalog/nivelir/leica/leica-na-324/leica-na-324-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_leica_na324_4 {
+  background: url(/img/catalog/nivelir/leica/leica-na-324/leica-na-324-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_nikon_logo {
   background: url(/img/catalog/logo/nikon-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_nikon_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_npl_322_5_1 {
   background: url(/img/catalog/takheometr/nikon/nikon-npl-322/nikon-npl-322-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_nikon_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_npl_322_5_2 {
   background: url(/img/catalog/takheometr/nikon/nikon-npl-322/nikon-npl-322-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_nikon_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_npl_322_5_3 {
   background: url(/img/catalog/takheometr/nikon/nikon-npl-322/nikon-npl-322-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_nikon_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_npl_322_5_4 {
   background: url(/img/catalog/takheometr/nikon/nikon-npl-322/nikon-npl-322-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_nikon_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_nivo_5_mw_1 {
+  background: url(/img/catalog/takheometr/nikon/nikon-nivo-5-mw+/01.jpg) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_nivo_5_mw_2 {
+  background: url(/img/catalog/takheometr/nikon/nikon-nivo-5-mw+/02.jpg) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_nivo_5_mw_3 {
+  background: url(/img/catalog/takheometr/nikon/nikon-nivo-5-mw+/03.jpg) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_nikon_nivo_5_mw_4 {
+  background: url(/img/catalog/takheometr/nikon/nikon-nivo-5-mw+/04.jpg) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ax_2s_1 {
   background: url(/img/catalog/nivelir/nikon/nikon-ax-2s/nikon-ax-2s-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_nikon_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ax_2s_2 {
   background: url(/img/catalog/nivelir/nikon/nikon-ax-2s/nikon-ax-2s-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_nikon_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ax_2s_3 {
   background: url(/img/catalog/nivelir/nikon/nikon-ax-2s/nikon-ax-2s-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_nikon_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ax_2s_4 {
   background: url(/img/catalog/nivelir/nikon/nikon-ax-2s/nikon-ax-2s-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_sokkia_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ac_2s_1 {
+  background: url(/img/catalog/nivelir/nikon/nikon-ac-2s/nikon-ac-2s-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ac_2s_2 {
+  background: url(/img/catalog/nivelir/nikon/nikon-ac-2s/nikon-ac-2s-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ac_2s_3 {
+  background: url(/img/catalog/nivelir/nikon/nikon-ac-2s/nikon-ac-2s-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_nikon_ac_2s_4 {
+  background: url(/img/catalog/nivelir/nikon/nikon-ac-2s/nikon-ac-2s-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_sokkia_logo {
   background: url(/img/catalog/logo/sokkia-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_sokkia_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_ix_505_1 {
   background: url(/img/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_sokkia_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_ix_505_2 {
   background: url(/img/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_sokkia_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_ix_505_3 {
   background: url(/img/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_sokkia_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_ix_505_4 {
   background: url(/img/catalog/takheometr/sokkia/sokkia-ix-505/sokkia-ix-505-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_sokkia_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_cx_105_1 {
+  background: url(/img/catalog/takheometr/sokkia/sokkia-cx-105/sokkia-cx-105-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_cx_105_2 {
+  background: url(/img/catalog/takheometr/sokkia/sokkia-cx-105/sokkia-cx-105-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_cx_105_3 {
+  background: url(/img/catalog/takheometr/sokkia/sokkia-cx-105/sokkia-cx-105-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_sokkia_cx_105_4 {
+  background: url(/img/catalog/takheometr/sokkia/sokkia-cx-105/sokkia-cx-105-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_b20_1 {
   background: url(/img/catalog/nivelir/sokkia/sokkia-b20/sokkia-b20-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_sokkia_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_b20_2 {
   background: url(/img/catalog/nivelir/sokkia/sokkia-b20/sokkia-b20-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_sokkia_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_b20_3 {
   background: url(/img/catalog/nivelir/sokkia/sokkia-b20/sokkia-b20-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_sokkia_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_b20_4 {
   background: url(/img/catalog/nivelir/sokkia/sokkia-b20/sokkia-b20-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_topcon_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl30_1 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl30/sokkia-sdl30-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl30_2 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl30/sokkia-sdl30-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl30_3 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl30/sokkia-sdl30-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl30_4 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl30/sokkia-sdl30-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl50_1 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl50/sokkia-sdl50-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl50_2 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl50/sokkia-sdl50-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl50_3 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl50/sokkia-sdl50-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_sokkia_sdl50_4 {
+  background: url(/img/catalog/nivelir/sokkia/sokkia-sdl50/sokkia-sdl50-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_topcon_logo {
   background: url(/img/catalog/logo/topcon-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_topcon_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_gm55_5_1 {
   background: url(/img/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_topcon_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_gm55_5_2 {
   background: url(/img/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_topcon_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_gm55_5_3 {
   background: url(/img/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_topcon_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_gm55_5_4 {
   background: url(/img/catalog/takheometr/topcon/topcon-gm-55/topcon-gm-55-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_rgk_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_os_105l_1 {
+  background: url(/img/catalog/takheometr/topcon/topcon-os-105l/topcon-os-105l-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_os_105l_2 {
+  background: url(/img/catalog/takheometr/topcon/topcon-os-105l/topcon-os-105l-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_os_105l_3 {
+  background: url(/img/catalog/takheometr/topcon/topcon-os-105l/topcon-os-105l-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_topcon_os_105l_4 {
+  background: url(/img/catalog/takheometr/topcon/topcon-os-105l/topcon-os-105l-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_rgk_logo {
   background: url(/img/catalog/logo/rgk-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_rgk_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_20_1 {
   background: url(/img/catalog/nivelir/rgk/rgk-c-20/rgk-c-20-1.webp);
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_rgk_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_20_2 {
   background: url(/img/catalog/nivelir/rgk/rgk-c-20/rgk-c-20-2.webp);
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_rgk_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_20_3 {
   background: url(/img/catalog/nivelir/rgk/rgk-c-20/rgk-c-20-3.webp);
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_rgk_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_20_4 {
   background: url(/img/catalog/nivelir/rgk/rgk-c-20/rgk-c-20-4.webp);
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_instrument_trimble_logo {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_24_1 {
+  background: url(/img/catalog/nivelir/rgk/rgk-c-24/rgk-c-24-1.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_24_2 {
+  background: url(/img/catalog/nivelir/rgk/rgk-c-24/rgk-c-24-2.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_24_3 {
+  background: url(/img/catalog/nivelir/rgk/rgk-c-24/rgk-c-24-3.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_c_24_4 {
+  background: url(/img/catalog/nivelir/rgk/rgk-c-24/rgk-c-24-4.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_n_24_1 {
+  background: url(/img/catalog/nivelir/rgk/rgk-n-24/rgk-n-24-1.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_n_24_2 {
+  background: url(/img/catalog/nivelir/rgk/rgk-n-24/rgk-n-24-2.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_n_24_3 {
+  background: url(/img/catalog/nivelir/rgk/rgk-n-24/rgk-n-24-3.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_rgk_n_24_4 {
+  background: url(/img/catalog/nivelir/rgk/rgk-n-24/rgk-n-24-4.webp);
+}
+.instrument_takheometr .box_img_instruction_instrument .img_instrument_trimble_logo {
   background: url(/img/catalog/logo/trimble-instrument-logo.svg) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_trimble_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c3_5_1 {
   background: url(/img/catalog/takheometr/trimble/trimble-c3/trimble-c3-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_trimble_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c3_5_2 {
   background: url(/img/catalog/takheometr/trimble/trimble-c3/trimble-c3-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_trimble_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c3_5_3 {
   background: url(/img/catalog/takheometr/trimble/trimble-c3/trimble-c3-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_takheo_trimble_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c3_5_4 {
   background: url(/img/catalog/takheometr/trimble/trimble-c3/trimble-c3-4.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_trimble_1 {
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c5_1 {
+  background: url(/img/catalog/takheometr/trimble/trimble-c5/trimble-c5-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c5_2 {
+  background: url(/img/catalog/takheometr/trimble/trimble-c5/trimble-c5-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c5_3 {
+  background: url(/img/catalog/takheometr/trimble/trimble-c5/trimble-c5-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_takheo_trimble_c5_4 {
+  background: url(/img/catalog/takheometr/trimble/trimble-c5/trimble-c5-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_03_1 {
   background: url(/img/catalog/nivelir/trimble/dini-03/dini-03-1.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_trimble_2 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_03_2 {
   background: url(/img/catalog/nivelir/trimble/dini-03/dini-03-2.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_trimble_3 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_03_3 {
   background: url(/img/catalog/nivelir/trimble/dini-03/dini-03-3.webp) center no-repeat;
 }
-.instrument_takheometr .box_img_instruction_instrument .img_item_nivelir_trimble_4 {
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_03_4 {
   background: url(/img/catalog/nivelir/trimble/dini-03/dini-03-4.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_07_1 {
+  background: url(/img/catalog/nivelir/trimble/dini-07/dini-07-1.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_07_2 {
+  background: url(/img/catalog/nivelir/trimble/dini-07/dini-07-2.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_07_3 {
+  background: url(/img/catalog/nivelir/trimble/dini-07/dini-07-3.webp) center no-repeat;
+}
+.instrument_takheometr .box_img_instruction_instrument .img_nivelir_dini_07_4 {
+  background: url(/img/catalog/nivelir/trimble/dini-07/dini-07-4.webp) center no-repeat;
 }
 .instrument_takheometr .box_img_instruction_instrument .img_item_instrument_grid_1 {
   grid-column: 1/4;

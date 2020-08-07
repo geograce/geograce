@@ -72,11 +72,11 @@
          iX-505, которое вы можете распечатать или читать как с компьютера, так и с мобильных устройств в формате
          pdf.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_sokkia_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_takheo_sokkia_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_takheo_sokkia_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_takheo_sokkia_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_takheo_sokkia_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_sokkia_logo img_item_instrument_grid_1"></div>
+         <div class="img_takheo_sokkia_ix_505_1 img_item_instrument_grid_2"></div>
+         <div class="img_takheo_sokkia_ix_505_2 img_item_instrument_grid_3"></div>
+         <div class="img_takheo_sokkia_ix_505_3 img_item_instrument_grid_4"></div>
+         <div class="img_takheo_sokkia_ix_505_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 

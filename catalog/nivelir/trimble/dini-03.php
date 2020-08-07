@@ -61,19 +61,20 @@
          <a href="/download/catalog/nivelir/trimble/dini-03-07/dini-03-07-brochure.pdf" target="_blank"
             class="length_download_download_instruction">Скачать</a>
       </div>
-      <p class="txt_instruction_instrument">Оптический нивелир Trimble DiNi 03 — это современный геодезический прибор,
-         на котором установлена высококачественная просветленная оптика, а простая и надежная конструкция компенсатора
-         обеспечивает надежную работу нивелира в условиях строительной площадки. При эксплуатации нивелира Trimble нужно
-         ознакомиться с инструкцией, которую можно <strong>скачать</strong> на нашем сайте. <strong>Инструкция к
+      <p class="txt_instruction_instrument">Цифровой нивелир Trimble DiNi 03 &ndash; может применяться при точном
+         нивелировании наклонных и плоских поверхностей, для задания необходимых уклонов и постройке продольных
+         профилей, для слежения за деформациями и создания высотного обоснования. При эксплуатации нивелира Trimble
+         нужно ознакомиться с инструкцией, которую можно <strong>скачать</strong> на нашем сайте. <strong>Инструкция к
             нивелиру Trimble DiNi 03</strong> очень важна для ознакомления перед первым использованием прибора, поэтому
          скачайте <strong>руководство пользователя</strong> для нивелира Trimble DiNi 03, которое вы можете распечатать
-         или читать как с компьютера, так и с мобильных устройств в формате pdf.</p>
+         или читать как с компьютера, так и с мобильных устройств в формате pdf. Цифровые нивелиры Trimble DiNi имеют
+         большую точность, чем классические нивелиры.</p>
       <div class="box_img_instruction_instrument">
-         <div class="img_item_instrument_trimble_logo img_item_instrument_grid_1"></div>
-         <div class="img_item_nivelir_trimble_1 img_item_instrument_grid_2"></div>
-         <div class="img_item_nivelir_trimble_2 img_item_instrument_grid_3"></div>
-         <div class="img_item_nivelir_trimble_3 img_item_instrument_grid_4"></div>
-         <div class="img_item_nivelir_trimble_4 img_item_instrument_grid_5"></div>
+         <div class="img_instrument_trimble_logo img_item_instrument_grid_1"></div>
+         <div class="img_nivelir_dini_03_1 img_item_instrument_grid_2"></div>
+         <div class="img_nivelir_dini_03_2 img_item_instrument_grid_3"></div>
+         <div class="img_nivelir_dini_03_3 img_item_instrument_grid_4"></div>
+         <div class="img_nivelir_dini_03_4 img_item_instrument_grid_5"></div>
       </div>
    </div>
 
