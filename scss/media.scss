@@ -66,17 +66,7 @@
          }
       }
       .right_header{
-         width: 100%;
-         .box_right_menu_index{
-            display: none;
-         }
-         .box_alphabet{
-            margin-top: 0;
-            padding: 150px 0;
-            p{
-               background: rgba(197, 197, 197, 0.5);
-            }
-         }
+         display: none;
       }
    }
    //======================================================
@@ -221,12 +211,6 @@
       .left_header{
          .h1_index{
             font-size: 42px;
-         }
-      }
-      .right_header{
-         .box_alphabet{
-            grid-template-columns: repeat(6, 50px);
-            grid-gap: 19px;
          }
       }
    }
@@ -457,13 +441,10 @@
             text-align: left;
          }
       }
-      .right_header{
-         .box_alphabet{
-            grid-template-columns: repeat(4, 50px);
-            justify-content: center;
-            grid-gap: 20px;
-            padding: 100px 0;
-         }
+      .box_alphabet{
+         grid-template-columns: repeat(4, 45px);
+         grid-template-rows: repeat(6, 45px);
+         grid-gap: 15px;
       }
    }
    //======================================================
