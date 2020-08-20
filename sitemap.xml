@@ -391,12 +391,24 @@
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/geomax/geomax-zoom-25.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/geomax/geomax-zoom-40.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/geomax/geomax-zoom-50.php</loc>
+</url>
 <!--===Leica====-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts03-r500-5.php</loc>
 </url>
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts07-500.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts10-r500.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/leica/leica-ts16-r500.php</loc>
 </url>
 <!--===Nikon====-->
 <url>
@@ -405,12 +417,24 @@
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/nicon/nikon-nivo-5-mw+.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/nicon/nikon-xs.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/nicon/nikon-xf.php</loc>
+</url>
 <!--===Sokkia===-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-ix-505.php</loc>
 </url>
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-cx-105.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-fx-105.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/sokkia/sokkia-im-55.php</loc>
 </url>
 <!--===Topcon===-->
 <url>
@@ -419,12 +443,24 @@
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/topcon/topcon-os-105l.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/topcon/topcon-ds-105.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/topcon/topcon-is-305.php</loc>
+</url>
 <!--==Trimble===-->
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-c3-5.php</loc>
 </url>
 <url>
   <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-c5.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-s5.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/takheometr/trimble/trimble-s7.php</loc>
 </url>
 <!--====КАТАЛОГ НИВЕЛИРЫ====-->
 <!--===GeoMax===-->
@@ -434,6 +470,12 @@
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/geomax/geomax-zal124.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/geomax/geomax-zal132.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/geomax/geomax-zdl700.php</loc>
+</url>
 <!--===Leica====-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na320.php</loc>
@@ -441,12 +483,24 @@
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na324.php</loc>
 </url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na332.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/leica/leica-na520.php</loc>
+</url>
 <!--===Nikon====-->
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ax-2s.php</loc>
 </url>
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ac-2s.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ap-8.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/nikon/nikon-ap-8.php</loc>
 </url>
 <!--===Sokkia===-->
 <url>
@@ -467,6 +521,9 @@
 </url>
 <url>
   <loc>https://www.geograce.ru/catalog/nivelir/rgk/rgk-n-24.php</loc>
+</url>
+<url>
+  <loc>https://www.geograce.ru/catalog/nivelir/rgk/rgk-n-32.php</loc>
 </url>
 <!--===Trimble==-->
 <url>

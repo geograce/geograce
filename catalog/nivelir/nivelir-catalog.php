@@ -45,18 +45,24 @@
          <h2 class="h2_catalog_nivelir">GeoMax</h2>
          <a href="/catalog/nivelir/geomax/geomax-zal120.php" class="link_nivelir">Geomax ZAL120</a>
          <a href="/catalog/nivelir/geomax/geomax-zal124.php" class="link_nivelir">Geomax ZAL124</a>
+         <a href="/catalog/nivelir/geomax/geomax-zal132.php" class="link_nivelir">Geomax ZAL132</a>
+         <a href="/catalog/nivelir/geomax/geomax-zdl700.php" class="link_nivelir">Geomax ZDL700</a>
       </div>
 
       <div class="box_nivelir box_nivelir_leica">
          <h2 class="h2_catalog_nivelir">Leica</h2>
-         <a href="/catalog/nivelir/leica/leica-na320.php" class="link_nivelir">Leica NA320</a>
-         <a href="/catalog/nivelir/leica/leica-na324.php" class="link_nivelir">Leica NA324</a>
+         <a href="/catalog/nivelir/leica/leica-na320.php" class="link_nivelir">Leica NA 320</a>
+         <a href="/catalog/nivelir/leica/leica-na324.php" class="link_nivelir">Leica NA 324</a>
+         <a href="/catalog/nivelir/leica/leica-na332.php" class="link_nivelir">Leica NA 332</a>
+         <a href="/catalog/nivelir/leica/leica-na520.php" class="link_nivelir">Leica NA 520</a>
       </div>
 
       <div class="box_nivelir box_nivelir_nicon">
          <h2 class="h2_catalog_nivelir">Nikon</h2>
          <a href="/catalog/nivelir/nikon/nikon-ax-2s.php" class="link_nivelir">Nikon AX&ndash;2S</a>
          <a href="/catalog/nivelir/nikon/nikon-ac-2s.php" class="link_nivelir">Nikon AC&ndash;2S</a>
+         <a href="/catalog/nivelir/nikon/nikon-ap-8.php" class="link_nivelir">Nikon AP&ndash;8</a>
+         <a href="/catalog/nivelir/nikon/nikon-ap-8.php" class="link_nivelir">Nikon AE&ndash;7C</a>
       </div>
 
       <div class="box_nivelir box_nivelir_sokkia">
@@ -71,6 +77,7 @@
          <a href="/catalog/nivelir/rgk/rgk-c-20.php" class="link_nivelir">RGK C&ndash;20</a>
          <a href="/catalog/nivelir/rgk/rgk-c-24.php" class="link_nivelir">RGK C&ndash;24</a>
          <a href="/catalog/nivelir/rgk/rgk-n-24.php" class="link_nivelir">RGK N&ndash;24</a>
+         <a href="/catalog/nivelir/rgk/rgk-n-32.php" class="link_nivelir">RGK N&ndash;32</a>
       </div>
 
       <div class="box_nivelir box_nivelir_trimble">
